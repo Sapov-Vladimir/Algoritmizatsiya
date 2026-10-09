@@ -1,56 +1,48 @@
-client.js:49 ✅ Микрофон получен и локальный кодер запущен
-client.js:63 ✅ Подключено к серверу
-client.js:71 👥 Пользователи в комнате: Array(1)
-client.js:76 ➕ Присоединился: Vladimir
-client.js:102 🔨 Создаем соединение с Vladimir
-client.js:108  Треки добавлены в PC
-client.js:147  Я старший (Volodya > Vladimir), создаю Offer через 500мс
-client.js:151 🔄 Создаю Offer для Vladimir
-client.js:155 ✅ Offer отправлен для Vladimir
-client.js:136 📦 ICE: host (26.165.199.175)
-client.js:136 📦 ICE: host (192.168.0.105)
-client.js:136 📦 ICE: host ([fdfd::1aa5:c7af])
-client.js:136 📦 ICE: srflx (94.141.124.214)
-client.js:136 📦 ICE: host (26.165.199.175)
-client.js:136 📦 ICE: host (192.168.0.105)
-client.js:136 📦 ICE: host ([fdfd::1aa5:c7af])
-client.js:136 📦 ICE: relay (201.7.17.108)
-client.js:230  Answer от Vladimir
-client.js:124  ПОЛУЧЕН ПОТОК от Vladimir
-client.js:126   - audio: enabled=true muted=true
-client.js:235 ✅ Answer установлен
-client.js:63 ✅ Подключено к серверу
-client.js:71 👥 Пользователи в комнате: (2) ['Vladimir', 'Volodya']
-client.js:97 ️ Уничтожаем старое соединение с Vladimir
-client.js:102 🔨 Создаем соединение с Vladimir
-client.js:108  Треки добавлены в PC
-client.js:147  Я старший (Volodya > Vladimir), создаю Offer через 500мс
-client.js:151 🔄 Создаю Offer для Vladimir
-client.js:155 ✅ Offer отправлен для Vladimir
-client.js:136 📦 ICE: host (26.165.199.175)
-client.js:136 📦 ICE: host (192.168.0.105)
-client.js:136 📦 ICE: host ([fdfd::1aa5:c7af])
-client.js:136 📦 ICE: srflx (94.141.124.214)
-client.js:136 📦 ICE: host (26.165.199.175)
-client.js:136 📦 ICE: host (192.168.0.105)
-client.js:136 📦 ICE: host ([fdfd::1aa5:c7af])
-client.js:230  Answer от Vladimir
-client.js:124  ПОЛУЧЕН ПОТОК от Vladimir
-client.js:126   - audio: enabled=true muted=true
-client.js:235 ✅ Answer установлен
-client.js:136 📦 ICE: relay (201.7.17.108)
-client.js:76 ➕ Присоединился: Vladimir
-client.js:97 ️ Уничтожаем старое соединение с Vladimir
-client.js:102 🔨 Создаем соединение с Vladimir
-client.js:108  Треки добавлены в PC
-client.js:147  Я старший (Volodya > Vladimir), создаю Offer через 500мс
-client.js:151 🔄 Создаю Offer для Vladimir
-client.js:155 ✅ Offer отправлен для Vladimir
-client.js:136 📦 ICE: host (26.165.199.175)
-client.js:136 📦 ICE: host (192.168.0.105)
-client.js:136 📦 ICE: host ([fdfd::1aa5:c7af])
-client.js:136 📦 ICE: srflx (94.141.124.214)
-client.js:136 📦 ICE: host (26.165.199.175)
-client.js:136 📦 ICE: host (192.168.0.105)
-client.js:136 📦 ICE: host ([fdfd::1aa5:c7af])
-client.js:136 📦 ICE: relay (201.7.17.108)
+client.js:55 ✅ Подключено к серверу
+client.js:65 👥 Пользователи в комнате: Array(2)
+client.js:105 🔨 Создаем соединение с Vladimir | Я старший: true
+client.js:181 Uncaught (in promise) ReferenceError: shouldCreateOffer is not defined
+    at setupPeerConnection (client.js:181:3)
+    at Socket.<anonymous> (client.js:68:15)
+    at Emitter.emit (C:\my-discord-app\node_modules\@socket.io\component-emitter\lib\cjs\index.js:143:20)
+    at Socket.emitEvent (C:\my-discord-app\node_modules\socket.io-client\build\cjs\socket.js:557:20)
+    at Socket.onevent (C:\my-discord-app\node_modules\socket.io-client\build\cjs\socket.js:544:18)
+    at Socket.onpacket (C:\my-discord-app\node_modules\socket.io-client\build\cjs\socket.js:513:22)
+    at Emitter.emit (C:\my-discord-app\node_modules\@socket.io\component-emitter\lib\cjs\index.js:143:20)
+    at C:\my-discord-app\node_modules\socket.io-client\build\cjs\manager.js:256:18
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)
+client.js:278  Запрашиваем микрофон...
+client.js:282 ✅ Микрофон получен, треков: 1
+client.js:288  Добавление треков в 1 соединений
+client.js:295 ➕ Трек добавлен в соединение
+client.js:168 🔔 Сработал onnegotiationneeded для Vladimir
+client.js:197 🔄 Начало переговоров с Vladimir
+client.js:248 📩 Получен Answer от Vladimir
+client.js:219 📩 Получен Offer от Vladimir
+client.js:101 ⚠️ Соединение с Vladimir уже есть, пропускаем
+client.js:118 🌐 [ICE] Vladimir: checking
+client.js:155  Получен поток от Vladimir | Треков: 1
+client.js:157   - Тип: audio | Enabled: true | Muted: true
+client.js:162 ✅ Воспроизведение запущено для Vladimir
+client.js:118 🌐 [ICE] Vladimir: connected
+client.js:55 ✅ Подключено к серверу
+client.js:65 👥 Пользователи в комнате: (2) ['Vladimir', 'Volodya']
+client.js:101 ⚠️ Соединение с Vladimir уже есть, пропускаем
+client.js:219 📩 Получен Offer от Vladimir
+client.js:101 ⚠️ Соединение с Vladimir уже есть, пропускаем
+client.js:118 🌐 [ICE] Vladimir: disconnected
+client.js:120 
+
+
+
+
+> my-discord-app@1.0.0 start
+> electron .
+
+
+🔐 Запрос разрешения: media
+[14968:1009/191941.752:ERROR:services\network\p2p\socket_udp.cc:263] bind() to 2001:0:14c9:d804:1c12:8ad6:a172:8329:0 failed: -147
+[10528:1009/191943.422:ERROR:third_party\webrtc\p2p\base\port.cc:510] Port[121a800:0:1:0:relay:Net[{14BD4247-B386-4376-AB31-1B135940F047}:192.168.0.x/24:Wifi:id=1]]: Received STUN BINDING error response: class=4 number=87 reason='Role Conflict' from 201.7.17.x:50005
+[10528:1009/191943.477:ERROR:third_party\webrtc\p2p\base\port.cc:510] Port[121a800:0:1:0:relay:Net[{14BD4247-B386-4376-AB31-1B135940F047}:192.168.0.x/24:Wifi:id=1]]: Received STUN BINDING error response: class=4 number=87 reason='Role Conflict' from 201.7.17.x:50005
+[10528:1009/191943.703:ERROR:third_party\webrtc\p2p\base\port.cc:510] Port[121a800:0:1:0:relay:Net[{14BD4247-B386-4376-AB31-1B135940F047}:192.168.0.x/24:Wifi:id=1]]: Received STUN BINDING error response: class=4 number=87 reason='Role Conflict' from 201.7.17.x:50005
+[14968:1009/192215.753:ERROR:services\network\p2p\socket_udp.cc:263] bind() to 2001:0:14c9:d804:1c12:8ad6:a172:8329:0 failed: -147
