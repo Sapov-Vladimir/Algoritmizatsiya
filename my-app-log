@@ -1,413 +1,139 @@
 60a7a5e21619
 
 
-Не удалось подключиться: publication of local track timed out, no response from server
+PS C:\Users\vladi> ipconfig
+
+Настройка протокола IP для Windows
 
 
-livekit-client.umd.js:1 connection state changed: disconnected -> connecting Object
-livekit-client.umd.js:1 signal connecting to ws://201.7.17.108:7880/rtc/v1?access_token=%3Credacted%3E&join_request=CAESmhEfiwgAAAAAAAAK7VzbbuS4EYUXSbAw0EB2nvaRQB4DuVm86MJBP_gyTjbYHXjXM5M8RpbYbWVaF0hsuz0fkB_YH9pPW1BqW3KT9M6MJ8AiIOAG7MMiD6tUVWryAD785uuDF38iR4QcsW-_-fdX_zn46sUfvj748wH5-ZeDwz_Wy6VsX_z3l4ObBZ4d1osARSHFLE4gJhBxxgghDBH03Wv03QVDQKIjfISPYHbYLYLZoVpghGeH6UJuVZk2Qbpe17dBWWxlrtGyK_Kgk2VaqSITCP3zh0sNr9p604iTt6_Pvn-FMAJEEEUMcRTODstFusmLGiXo7dnF_M33l_Of3lzML4_fXZwjAEAhRQnCKEZAEQBGQMLZYbbY7Q_3u-t31KqmTBuh59TNppuzGGM8J5OhkKJW5paBBP0tImSu8QmK0cXpD2_30Vijx_soUHT62gABIyXXsrmuKxnIG1mpgXxqQ0LD5t5kWarBn7KoGlWUcgH45aaTRXWVVvlSZgt4MAt1dGAOAMPimfbKFqSsCZZX_aptq9oppsOzByUGgg0kNhAwF9KhMDASWuwAqTatuqZuVZBlY6oJQJu2EoVUS9GkbVp2olVNcJ23cqtE17VZ0CdSsJY3cj2ZR9C1Uo2Yz29vb49u5VWrsqO6Xc3ltpFtUcpKdfNxpXl61QWdrPJAB3yyDJ0uo3fRL1Lk87xNlyq4rtelbIO2zFIVjB7cFrkMsiyQWyWrrqirLsAwWZU96VQuO1EWfWV1Um0akWaqSbuuL7UiF8MjldlNXa3v9O9FJoPNsk1XYkP-tbpHmttc_LX-Mduuoh-vz_9x9-EK3s6v-Iodsz74y6JaybZpi0qJ7joNCA8RxuIYi5NjcUrFaax_IhCMi_BEvDoVQASm4hzE8blIqHh1JuITwc_FCRZnWJyfCswFfiUoE9GxOI8EBhGeihMuzrjAicCn91urG6WDIlRbZO_X8iEVys324fe2Kz6MI9tWtNlNG7RKLdL12jcQ30B8A_ncBgK-gfgG4huIbyCf20CIbyC6gdwUubQ3kCRESYSSGCUJAowRYECUIxoiGiEaI8AEAaYIMEOAIwRYYwkCYAiAI4AQAUSIJohhxAAxghhFjCHGEQsRixCLEYD-JAiIbk-AWII4RhwQJwiI_lAEhCFOn-xcSYjeXcTzBD_uEEmEWrU14Ri9u0hMOLFaa-dt5jogNnvKreY0tFtHduvYsReC_k5CZhmgjgnMNcEeG_0YHRMc4QEXA3DHhNA1wb4lmtjtGbaaM3CYE7s5dZgzuzlHx-_AhO1Pl0V2a8fTBVfswRF7gh0TiD03WR9KbuDcHkoODnN7KHXB6m8JJu5ITsLQZt0sZWYyULRcy-1SZgGm42j_vk4ilDZqkYQjEqOmrZfFWgZFvphYJoNlPH4lwHhqSiYD0NvChIjyqe34hYGGvSnlIxJNLemIx4NlNOEhqH_NBml3V5ZStXfDXZTMF_CySbP3UhUfUt3ag7LOpQZ3Kw_TinzBCMawnCxJd1ufusM-jQZ_BE20o2ETLP4C3sjHNMmOZvLU4Et485gG-EADE28gfL43-eOgwS5oMGYrTZ7vzGMWhoc0S0YEnu3Jkj3mID0HG8uA0Wf7sc_BBo6xgBhH98bbBb9fYIFfqkK2k0pnQ0mysSRZZJ0JxsyhRNmkROH5SR2yvTTYJTVMkprgZ8dvn4bsmhiZ-Jc8xGEBcfhy2tH6WATLdbrSEd0ONJc_Xb55mM2HzGJjZnFwrkc-Yr0hizhM9rzrXmTsXlyfNpu0aIPbosrrW92V8fiG-I0DWmKejfQXwX3IPHwl5plNvy9MzDwAUm5C5jaouQ1qOQNiYsEsB0PMLJhJoZu0iVl8Bct6YDqm26SJWVwzKZgZTWYGk5n-M9N9Zu6WmZtl5l6ZuVVmiRDYMEvUiO14bnHKnMrNmdycyC3ZQGyYJUOIGSNuuaoI0aquV0Ery6s9fP9CYTKUZSVaFvsLVWn23gKhZl3sVZ-dMnZTxlbK2KSMrZS6lK2cesBFqscsrBrep73H9nkpt9NS7mSl3EZKucG5gwzKyEEZuSkjK2VkUkaO6BJXdMkT0SX26BJLdImDl7l42RO8zM7LLLzMwevIYD3g5rXmsIZNXkcWg8tfeMJfsPsLFn_B4S84moQecPNa24SGTV57o6CJI5UTdyon1lROzFROrJQM7JTMvF-dDFkoGRiUO8igpA5K6qakVkpqUlI7paMtMXdbYta2xMy2xOxtiTnaEnO3JWZtS8xsS8zRlsBVpvBEmYK9TMFSpuAoU-J62ZAnXjbE_rIhlpcNsb9smKNcmLtcmLVcmFkuzF4u3FEu3F0u3Fou3CwXbi8X7igXbpbLvQLypFqg6uWyk2r2xZUPoD0tXTWN6K_ag7otZKX6U93sf62Q8E9zolmnd_VGBblcp3eTZcJPW2bwM6srJSsVqLtmGpDoc9ZSRVlUq8kq8aetktXrug26Js2mW_lo_ej-WeLfnKD_7lQr0zJ4PPVpAa6f2p93ZR441xhSshPzeVqXMi_SrM5ldrQq1PXm6qio5-kNDLMbmc3_kstGVrmssrsgl13WFo2q2378Wqa5bMesmbk0sv4axmtkXiObwF4j8xrZiHuNzGtkXiPzGpnXyLxG5jWyEfEamdfIvEb26LbKa2QPqNfIvEbmNTKvkT2MeY3MAnmNbA_3GpnXyLxG5jUyr5H9jjSy_mbMa2ReI5vAXiPzGtmIe43Ma2ReI_MamdfIvEbmNbIR8RqZ18i8RvbotsprZA-o18i8RuY1Mq-RPYx5jcwCeY1sD_camdfIvEbmNTKvkf2ONLL-MsVrZGnTrIusL9mdUnampbLL0zcXaEi-IE9Vml2nVaX_DadNp7LGN_x_iWmXqSbQLUnw3SVNmW6DUnZdupKBjq8gIQHGZoffHvwKgumVwzBgAAA%3D Object
-livekit-client.umd.js:1 signal connected Object
-livekit-client.umd.js:1 connected to Livekit Server edition: 0, version: 1.13.9, protocol: 17, region: , nodeId: ND_9ajhiWSWDkGz, debugInfo: , agentProtocol: 1 Object
-livekit-client.umd.js:1 connection state changed: connecting -> connected Object
-livekit-client.umd.js:1 publishing track Object
-livekit-client.umd.js:1 negotiation disconnected Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 NegotiationError: negotiation timed out
-    at livekit-client.umd.js:1:290881 Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 reconnecting, attempt: 0 Object
-livekit-client.umd.js:1 connection state changed: connected -> reconnecting Object
-renderer.js:45 ConnectionError: publication of local track timed out, no response from server
-    at Xs.timeout (livekit-client.umd.js:1:153410)
-    at livekit-client.umd.js:1:350279
-els.joinBtn.onclick @ renderer.js:45
-livekit-client.umd.js:1 disconnect from room Object
-livekit-client.umd.js:1 Abort connection attempt due to user initiated disconnect Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 Got disconnected during reconnection attempt Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 final track stats Object
-livekit-client.umd.js:1 final track stats Object
-livekit-client.umd.js:1 connection state changed: reconnecting -> disconnected Object
-livekit-client.umd.js:1 signal connecting to ws://201.7.17.108:7880/rtc/v1?access_token=%3Credacted%3E&join_request=CAESlBEfiwgAAAAAAAAK7Vzdbty4FYYXbbEwMEA3V3tJoNfy8PBHPwzmInac3QWSwIgTF-hVZYkzVjP6WYljj_MAfYG-0D5aQWlsyUPSm8QpsCh4McD44yE_nqNzjob8AB_-8P3Bs7-QI0KO2I8__PO7fx189-xP3x_89YD857eDwz_Xy6Vsn_37t4PrBZ4d1osARRg4phAyHhLGeYQBI4J-eYt-OWMISHSEj_ARzA67RTA7VAuM8OwwXcitKtMmSNfr-iYoi63MNVp2RR50skwrVWQCob-_Odfwqq03jTj-8Pbl61OEESCCKGKIo3B2WC7STV7UKEEfXp7N378-n797fzY_f3Fx9goBAAopShBGMQKKADACEs4Os8Vuf7jfXb-jVjVl2gg9p2423ZzFGOM5mQyFFLUytwwk6KeIkLnGJyhGZydvPuyjsUZf7KNA0clbAwSMlFzL5qquZCCvZaUG8qkNCQ2bO5NlqQZ_yqJqVFHKBeDnm04W1WVa5UuZLeDeLNTRgTkADItn2itbkLImWF72q7ataqeYDs8elBgINpDYQMBcSIfCwEhosQOk2rTqmrpVQZaNqSYAbdpKFFItRZO2admJVjXBVd7KrRJd12ZBn0jBWl7L9WQeQVdKNWI-v7m5ObqRl63Kjup2NZfbRrZFKSvVzceV5ullF3SyygMd8MkydLqM3kW_SJHP8zZdquCqXpeyDdoyS1UwenBT5DLIskBulay6oq66AMNkVfaoU7nsRFn0ldVJtWlEmqkm7bq-1IpcDI9UZtd1tb7V34tMBptlm67Ex4t_pHdIc5OL4zfv8E_n51VNN_LT6c83J5DOX_86ZMuyqFaybdqiUqK7SgPCQ0S5OH0l4mPBsYhiAVTEICARJ1xgKk5fCExEwsXpsYgjcRwJQsWrSJxgcXwi4hcCHwsy4FjgUwFEnFARhfp7HAkCd1urG6WDIlRbZB_X8j4Vys32_nvbFZ_GkW0r2uy6DVqlFul67RuIbyC-gXxtAwHfQHwD8Q3EN5CvbSDENxDdQK6LXNobSBKiJEJJjJIEAcYIMCDKEQ0RjRCNEWCCAFMEmCHAEQKssQQBMATAEUCIACJEE8QwYoAYQYwixhDjiIWIRYjFCEB_EgREtydALEEcIw6IEwREfygCwhCnj3auJEQXZ_E8wQ87RBKhVm1NOEYXZ4kJJ1Zr7bzNXAfEZk-51ZyGduvIbh079kLQzyRklgHqmMBcE-yx0Y_RMcERHnAxAHdMCF0T7Fuiid2eYas5A4c5sZtThzmzm3P04gJM2P50WWS3djxdcMUeHLEn2DGB2HOT9aHkBs7toeTgMLeHUhes_pVg4o7kJAxt1s1SZiYDRcu13C5lFmA6jvbv6yRCaaMWSTgiMWraelmsZVDki4llMljG408CjKemZDIAvS1MiCif2o4_GGjYm1I-ItHUko54PFhGEx6C-tdskHa3ZSlVezvcRcl8Ac-bNPsoVfEp1a09KOtcanC38jCtyBeMYAzLyZJ0t_WpO-zLaPBn0EQ7GjbB4m_gjXxIk-xoJk8NvoU3D2mADzQw8QbCp3uTPwwa7IIGY7bS5OnOPGRheEizZETgyZ4s2UMO0nOwsQwYfbIf-xxs4BgLiHF0Z7xd8LsFFvi5KmQ7qXQ2lCQbS5JF1plgzBxKlE1KFJ6e1CHbS4NdUsMkqQl-cvz2aciuiZGJf8l9HBYQh8-nHa2PRbBcpysd0e1Ac_7u_P39bD5kFhszi4NzPfIZ6w1ZxGGy5133ImP34vq02aRFG9wUVV7f6K6MxzfE7xzQEvNspH8I7kPm4Ssxz2z6fWFi5gGQchMyt0HNbVDLGRATC2Y5GGJmwUwK3aRNzOIrWNYD0zHdJk3M4ppJwcxoMjOYzPSfme4zc7fM3Cwz98rMrTJLhMCGWaJGbMdzi1PmVG7O5OZEbskGYsMsGULMGHHLVUWIVnW9ClpZXu7h-xcKk6EsK9Gy2F-oSrOPFgg162Kv-uyUsZsytlLGJmVspdSlbOXUAy5SPWZh1fA-7R22z0u5nZZyJyvlNlLKDc4dZFBGDsrITRlZKSOTMnJEl7iiSx6JLrFHl1iiSxy8zMXLHuFldl5m4WUOXkcG6wE3rzWHNWzyOrIYXP7CI_6C3V-w-AsOf8HRJPSAm9faJjRs8tobBU0cqZy4UzmxpnJipnJipWRgp2Tm_epkyELJwKDcQQYldVBSNyW1UlKTktopHW2JudsSs7YlZrYlZm9LzNGWmLstMWtbYmZbYo62BK4yhUfKFOxlCpYyBUeZEtfLhjzysiH2lw2xvGyI_WXDHOXC3OXCrOXCzHJh9nLhjnLh7nLh1nLhZrlwe7lwR7lws1zuFJBH1QJVL5edVLNvrnwA7WnpqmlEf9Ue1G0hK9Wf6mb_a4WEf5kTzTq9rTcqyOU6vZ0sE37ZMoOfWV0pWalA3TbTgERfs5YqyqJaTVaJv2yVrF7XbdA1aTbdymfrR3fPEv_uBP13p1qZlsHDqY8LcP3U_rwr88C5xpCSnZjP07qUeZFmdS6zo1WhrjaXR0U9T69hmN3IbP63XDayymWV3Qa57LK2aFTd9uNXMs1lO2bNzKWR9dcwXiPzGtkE9hqZ18hG3GtkXiPzGpnXyLxG5jUyr5GNiNfIvEbmNbIHt1VeI7tHvUbmNTKvkXmN7H7Ma2QWyGtke7jXyLxG5jUyr5F5jewPpJH1N2NeI_Ma2QT2GpnXyEbca2ReI_MamdfIvEbmNTKvkY2I18i8RuY1sge3VV4ju0e9RuY1Mq-ReY3sfsxrZBbIa2R7uNfIvEbmNTKvkXmN7A-kkfWXKV4jS5tmXWR9ye6UspdaKjs_eX-GhuQL8lSl2VVaVfrfcNp0Kmt8w_-XmHaZagLdkgTfXdKU6TYoZdelKxno-AoSEmBsdvjjwX8B5-7ZFDBgAAA%3D Object
-livekit-client.umd.js:1 signal connected Object
-livekit-client.umd.js:1 connected to Livekit Server edition: 0, version: 1.13.9, protocol: 17, region: , nodeId: ND_9ajhiWSWDkGz, debugInfo: , agentProtocol: 1 Object
-livekit-client.umd.js:1 error reading from signal stream Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 connection state changed: disconnected -> connecting Object
-livekit-client.umd.js:1 signal connecting to ws://201.7.17.108:7880/rtc/v1?access_token=%3Credacted%3E&join_request=CAESmREfiwgAAAAAAAAK7Vzbbhy5EYUWSbAQICDrp30kkOfWsHjpC415kCU7cbI2FMt28phWN2fU6-kL2BxptB-QH8gP7acF7BmpW0NSa1sbYBHwYYDRYZGHVV1VPeQBdPjdtwfP_kCOCTlm33_3r29-PPjm2e--PfjjAfnPzweHv28XC6me_fvng-s5Pjps5xHiLElxyjPOSMIAcMoJIuj1W_T6nCEgyTE-xsdwdNjPo6NDPccIHx3mc7nRdd5F-WrV3kR1tZGlQeu-KqNe1nmjq0Ig9I83FwZeqnbdiRcf3p798BJhBIggihjiKD46rOf5uqxalKEPZ-ez9z9czN69P59dnHw8f4UAAMUUZQijFAFFABgBiY8Oi_luf3jY3bAjpbs674SZ03brfsZSjPGMTIZiipQsHQMZ-nNCyMzgExSj89M3H_bR1KAn-yhQdPrWAgEjLVeyu2obGclr2egt-dSGxJbNncmi1lt_6qrpdFXLOeDn615WzWXelAtZzOHeLDbRgRkAbBcvjFeuIBVdtLgcVlVKqylmwrMHZRaCLSS1ELAXMqGwMBI77ABplTd91yodFcWYagLQWjWiknohulzldS-U7qKrUsmNFn2vimhIpGglr-VqMo-gK607MZvd3Nwc38hLpYvjVi1nctNJVdWy0f1sXGmWX_ZRL5syMgGfLEOny5hdDItU5axU-UJHV-2qlipSdZHraPTgpiplVBSR3GjZ9FXb9BGGyarsUadK2Yu6Giqrl3rdibzQXd73Q6lVpdg-Ullct83q1nyvChmtFypfin9C2t8h3U0pytcXOn7X_01ekHP199dkSf968-PLN2xIoKpZStWpqtGiv8ojwmPEuEhfiLNEvCKCJSI7FZSKNBEvzwQ7ERyLk0ycMkFSkRHBQJxxccLFi1Nx9kqcvRQnIBgWOBbJmTgFkb0QGRY4E0kiaCZOk7uttZ02QRFaVcWnlbxPhXq9uf-u-uqncWSjhCquVaS0nuerVWggoYGEBvK1DQRCAwkNJDSQ0EC-toGQ0EBMA7muSuluIFmMsgRlKcoyBBgjwIAoRzRGNEE0RYAJAkwRYIYAJwiwwTIEwBAARwAxAkgQzRDDiAFiBDGKGEOMIxYjliCWIgDzyRAQ054AsQxxjDggThAQ86EICEOcPtq5shh9PE9nGX7YIbIEKb2x4RR9PM9sOHNaG-dd5iYgLnvKneY0dlsnbuvUsxeC_kJi5higngnMN8EdG_MYPRM84QEfA3DPhNg3wb0lmrntGXaaM_CYE7c59ZgztzlHJx_Bht1PlyVua8_TBV_swRN7gj0TiDs32RBKbuHcHUoOHnN3KE3Bml8JNu5JTsLQetUtZGEzULRYyc1CFhGm4-jwvs4SlHd6nsUjkqJOtYtqJaOqnE8ss61lOv4kwHhqSiYDMNjChIjyqe34g4HGgynlI5JMLemIp1vLZMJD0PCajfL-tq6lVrfbuyhZzuF5lxefpK5-yk1rj-q2lAbcrbydVpVzRjCGxWRJutv61B32ZTT4M2iSHQ2bYOmv4I18SJPtaCZPDX4Nbx7SAN_SwMQbiJ_uTfkwaLALGozZSrOnO_OQheFtmmUjAk_2ZMEecpCBg41lwOiT_djnYFuOsYAYR3fGmzm_W2COn-tKqkmls21JsrEkWeKcCdbMbYmySYnC05M6ZntpsEtqmCQ1wU-O3z4N2TUxMvEvu4_DHNL4-bSjDbGIFqt8aSK62dJcvLt4fz-bbzOLjZnFwbse-Yz1tlnEYbLnXfciY_fi5rTZ5ZWKbqqmbG9MV8bjG-IXDmiZfTYyPwT3IfvwldlnNvO-sDH7AEi5DdnboPY2qOMMiIkDcxwMMXNgNoVp0jbm8BUc64HtmGmTNuZwzaZgdjSZHUxm-89s95m9W2Zvltl7ZfZWmSNC4MIcUSOu47nDKXsqt2dyeyJ3ZANxYY4MIXaMuOOqIkbLtl1GStaXe_j-hcJkqChqtKj2F2ry4pMDQt2q2qs-N2Xqp0ydlKlNmTopTSk7Oc2Aj9SMOVgNvE97h-3zUu6mpdzLSrmLlHKLcwdZlImHMvFTJk7KxKZMPNElvuiSR6JL3NEljugSDy_z8bJHeJmblzl4mYfXk8FmwM_rzGED27yeLAafv_CIv-D2Fxz-gsdf8DQJM-DndbYJA9u87kZBM08qZ_5UzpypnNmpnDkpGbgpmX2_OhlyUDKwKHeQRUk9lNRPSZ2U1KakbkpPW2L-tsScbYnZbYm52xLztCXmb0vM2ZaY3ZaYpy2Br0zhkTIFd5mCo0zBU6bE97Ihj7xsiPtlQxwvG-J-2TBPuTB_uTBnuTC7XJi7XLinXLi_XLizXLhdLtxdLtxTLtwulzsF5FG1QLeLRS_10a-ufAAdaOmy68Rw1R61qpKNHk51R_9rhYR_mRPdKr9t1zoq5Sq_nSwTf9kyWz-LttGy0ZG-7aYBSb5mLV3VVbOcrJJ-2SpFu2pV1Hd5Md3KZ-tHd88S_-IE83evlczr6OHUxwW4Yepw3pVl5F1jm5K9mM3ytpZllRdtKYvjZaWv1pfHVTvLr2E7u5PF7E-l7GRTyqa4jUrZF6rqdKuG8SuZl1KNWXPk08iGa5igkQWNbAIHjSxoZCMeNLKgkQWNLGhkQSMLGlnQyEYkaGRBIwsa2YPbqqCR3aNBIwsaWdDIgkZ2PxY0MgcUNLI9PGhkQSMLGlnQyIJG9hvSyIabsaCRBY1sAgeNLGhkIx40sqCRBY0saGRBIwsaWdDIRiRoZEEjCxrZg9uqoJHdo0EjCxpZ0MiCRnY_FjQyBxQ0sj08aGRBIwsaWdDIgkb2G9LIhsuUoJHlXbeqiqFkd0rZmZHKLk7fn6Nt8kVlrvPiKm8a8284XTqVM77x_0tM-0J3kWlJgu8uaep8E9Wy7_OljEx8BYkJMHZ0-P3BfwEsXJjoMGAAAA%3D%3D Object
-livekit-client.umd.js:1 signal connected Object
-livekit-client.umd.js:1 connected to Livekit Server edition: 0, version: 1.13.9, protocol: 17, region: , nodeId: ND_9ajhiWSWDkGz, debugInfo: , agentProtocol: 1 Object
-livekit-client.umd.js:1 connection state changed: connecting -> connected Object
-livekit-client.umd.js:1 publishing track Object
-livekit-client.umd.js:1 reconnect disconnected Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 reconnecting, attempt: 1 Object
-livekit-client.umd.js:1 signal connecting to ws://201.7.17.108:7880/rtc/v1?access_token=%3Credacted%3E&join_request=CAESlREfiwgAAAAAAAAK7Vzbbhy5EYUWSbAQICDrp30kkMegNSxe-kJjHmRpvbuAbQgr24Hf0urmjDqevoDNkUb7AfmB_NB-WsCekbo1JLW25QCLgA8DjA6LPKzqquohD6DD7749ePYXckzIMfv-u39-86-Db5796duDvx6Q__x2cPjndrGQ6tm_fzu4nuOjw3YeIZpBjFOWxpgnCcVxAgwR9PMb9PM5Q0CSY3yMj-HosJ9HR4d6jhE-OszncqPrvIvy1aq9iepqI0uD1n1VRr2s80ZXhUDoH68vDLxU7boTL969OXv1A8IIEEEUMcRRfHRYz_N1WbUoQ-_OzmdvX13Mfnl7Prs4eX_-EgEAiinKEEYpAooAMAISHx0W893-8LC7YUdKd3XeCTOn7db9jKUY4xmZDMUUKVk6BjL0Y0LIzOATFKPz09fv9tHUoCf7KFB0-sYCASMtV7K7ahsZyWvZ6C351IbEls2dyaLWW3_qqul0Vcs54OfrXlbNZd6UC1nM4d4sNtGBGQBsFy-MV64gFV20uBxWVUqrKWbCswdlFoItJLUQsBcyobAwEjvsAGmVN33XKh0VxZhqAtBaNaKSeiG6XOV1L5TuoqtSyY0Wfa-KaEikaCWv5Woyj6ArrTsxm93c3BzfyEuli-NWLWdy00lV1bLR_WxcaZZf9lEvmzIyAZ8sQ6fLmF0Mi1TlrFT5QkdX7aqWKlJ1keto9OCmKmVUFJHcaNn0Vdv0EYbJquxRp0rZi7oaKquXet2JvNBd3vdDqVWl2D5SWVy3zerWfK8KGa0XKl-Kqw-vzu-Q7qYUH0h7-zG9evd3fZ3Ah4bFGDTg1z8NCVQ1S6k6VTVa9Fd5RHiMskycvhSnIM6YSE7ECRc_gKBMsFPBuYhB4JfiBRWUCx4LzEWcihMmWCLwmRnKXoiXqYAXgiQCp4JhcXpibHgqMi5Sere1ttMmKEKrqvi4kvepUK83999VX_06jmyUUMW1ipTW83y1Cg0kNJDQQL60gUBoIKGBhAYSGsiXNhASGohpINdVKd0NJItRlqAsRVmGAGMEGBDliMaIJoimCDBBgCkCzBDgBAE2WIYAGALgCCBGAAmiGWIYMUCMIEYRY4hxxGLEEsRSBGA-GQJi2hMgliGOEQfECQJiPhQBYYjTRztXFqP35-ksww87RJYgpTc2nKL355kNZ05r47zL3ATEZU-505zGbuvEbZ169kLQTyRmjgHqmcB8E9yxMY_RM8ETHvAxAPdMiH0T3FuimdueYac5A485cZtTjzlzm3N08h5s2P10WeK29jxd8MUePLEn2DOBuHOTDaHkFs7doeTgMXeH0hSs-ZVg457kJAytV91CFjYDRYuV3CxkEWE6jg7v6yxBeafnWTwiKepUu6hWMqrK-cQy21qm408CjKemZDIAgy1MiCif2o4_GGg8mFI-IsnUko54urVMJjwEDa_ZKO9v61pqdbu9i5LlHJ53efFR6urX3LT2qG5LacDdyttpVTlnBGNYTJaku61P3WGfR4M_gSbZ0bAJln4Fb-RDmmxHM3lq8DW8eUgDfEsDE28gfro35cOgwS5oMGYrzZ7uzEMWhrdplo0IPNmTBXvIQQYONpYBo0_2Y5-DbTnGAmIc3Rlv5vxugTl-riupJpXOtiXJxpJkiXMmWDO3JcomJQpPT-qY7aXBLqlhktQEPzl--zRk18TIxL_sPg5zSOPn0442xCJarPKliehmS3Pxy8Xb-9l8m1lszCwO3vXIJ6y3zSIOkz3vuhcZuxc3p80ur1R0UzVle2O6Mh7fEL9zQMvss5H5IbgP2YevzD6zmfeFjdkHQMptyN4GtbdBHWdATByY42CImQOzKUyTtjGHr-BYD2zHTJu0MYdrNgWzo8nsYDLbf2a7z-zdMnuzzN4rs7fKHBECF-aIGnEdzx1O2VO5PZPbE7kjG4gLc2QIsWPEHVcVMVq27TJSsr7cw_cvFCZDRVGjRbW_UJMXHx0Q6lbVXvW5KVM_ZeqkTG3K1ElpStnJaQZ8pGbMwWrgfdo7bJ-Xcjct5V5Wyl2klFucO8iiTDyUiZ8ycVImNmXiiS7xRZc8El3iji5xRJd4eJmPlz3Cy9y8zMHLPLyeDDYDfl5nDhvY5vVkMfj8hUf8Bbe_4PAXPP6Cp0mYAT-vs00Y2OZ1NwqaeVI586dy5kzlzE7lzEnJwE3J7PvVyZCDkoFFuYMsSuqhpH5K6qSkNiV1U3raEvO3JeZsS8xuS8zdlpinLTF_W2LOtsTstsQ8bQl8ZQqPlCm4yxQcZQqeMiW-lw155GVD3C8b4njZEPfLhnnKhfnLhTnLhdnlwtzlwj3lwv3lwp3lwu1y4e5y4Z5y4Xa53Ckgj6oFul0seqmPvrryAXSgpcuuE8NVe9SqSjZ6ONUd_a8VEv55TnSr_LZd66iUq_x2skz8ects_SzaRstGR_q2mwYk-ZK1dFVXzXKySvp5qxTtqlVR3-XFdCufrB_dPUv8uxPM371WMq-jh1MfF-CGqcN5V5aRd41tSvZiNsvbWpZVXrSlLI6Xlb5aXx5X7Sy_hu3sThazv5Wyk00pm-I2KmVfqKrTrRrGr2ReSjVmzZFPIxuuYYJGFjSyCRw0sqCRjXjQyIJGFjSyoJEFjSxoZEEjG5GgkQWNLGhkD26rgkZ2jwaNLGhkQSMLGtn9WNDIHFDQyPbwoJEFjSxoZEEjCxrZH0gjG27GgkYWNLIJHDSyoJGNeNDIgkYWNLKgkQWNLGhkQSMbkaCRBY0saGQPbquCRnaPBo0saGRBIwsa2f1Y0MgcUNDI9vCgkQWNLGhkQSMLGtkfSCMbLlOCRpZ33aoqhpLdKWVnRiq7OH17jrbJF5W5zourvGnMv-F06VTO-Mb_LzHtC91FpiUJvrukqfNNVMu-z5cyMvEVJCbA2NHh9wf_BVRzrrMwYAAA Object
-livekit-client.umd.js:1 signal connected Object
-livekit-client.umd.js:1 connected to Livekit Server edition: 0, version: 1.13.9, protocol: 17, region: , nodeId: ND_9ajhiWSWDkGz, debugInfo: , agentProtocol: 1 Object
-livekit-client.umd.js:1 negotiation disconnected Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 NegotiationError: negotiation timed out
-    at livekit-client.umd.js:1:290881 Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 reconnecting, attempt: 0 Object
-livekit-client.umd.js:1 connection state changed: connected -> reconnecting Object
-renderer.js:45 ConnectionError: publication of local track timed out, no response from server
-    at Xs.timeout (livekit-client.umd.js:1:153410)
-    at livekit-client.umd.js:1:350279
-els.joinBtn.onclick @ renderer.js:45
-livekit-client.umd.js:1 disconnect from room Object
-livekit-client.umd.js:1 Abort connection attempt due to user initiated disconnect Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 Got disconnected during reconnection attempt Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 final track stats Object
-livekit-client.umd.js:1 final track stats Object
-livekit-client.umd.js:1 connection state changed: reconnecting -> disconnected Object
-livekit-client.umd.js:1 signal connecting to ws://201.7.17.108:7880/rtc/v1?access_token=%3Credacted%3E&join_request=CAESmBEfiwgAAAAAAAAK7Vzbbhy5EYUWSbAQICDrp30kkOfWsHjpC415kGx5d5NdQ7B8eU2rmzPqePoCNkca7QfkB_JD-2kBe0bq1pDU2pYDLAI-jCAdFnlY1VXVQx5Ah999e_DsL-SYkGP2_Xf__OZfB988-9O3B389IP_57eDwz-1iIdWzf_92cD3HR4ftPEKQZCzlNI5JmlCaxVnMEUE_vUY_nTMEJDnGx_gYjg77eXR0qOcY4aPDfC43us67KF-t2puorjayNGjdV2XUyzpvdFUIhD78cmHgpWrXnTh99_rlz2cII0AEUcQQR_HRYT3P12XVogy9e3k-e_vzxezN2_PZxcn781cIAFBMUYYwShFQBIARkPjosJjv9oeH3Q07Urqr806YOW237mcsxRjPyGQopkjJ0jGQoR8SQmYGn6AYnb_45d0-mhr0ZB8Fil68tkDASMuV7K7aRkbyWjZ6Sz61IbFlc2eyqPXWn7pqOl3Vcg74-bqXVXOZN-VCFnO4N4tNdGAGANvFC-OVK0hFFy0uh1WV0mqKmfDsQZmFYAtJLQTshUwoLIzEDjtAWuVN37VKR0UxppoAtFaNqKReiC5Xed0LpbvoqlRyo0XfqyIaEilayWu5mswj6ErrTsxmNzc3xzfyUuniuFXLmdx0UlW1bHQ_G1ea5Zd91MumjEzAJ8vQ6TJmF8MiVTkrVb7Q0VW7qqWKVF3kOho9uKlKGRVFJDdaNn3VNn2EYbIqe9SpUvairobK6qVedyIvdJf3_VBqVSm2j1QW122zujW_V4WM1guVL8XVh7K6Q7qbUrTNLYPX75OP7M3f3709-UdTfCCvr7sfhwSqmqVUnaoaLfqrPCI8Ri-wIFi8OjU_T6k4ISLNBDsTr84EnIiTVHAm4hOBM5FhAVi8jMUZFgkVNBPJKxFjAWfG4PSVODsTJ2eCY5Fggbkgp-Iludta22kTFKFVVXxcyftUqNeb-99VX_06jmyUUMW1ipTW83y1Cg0kNJDQQL60gUBoIKGBhAYSGsiXNhASGohpINdVKd0NJItRlqAsRVmGAGMEGBDliMaIJoimCDBBgCkCzBDgBAE2WIYAGALgCCBGAAmiGWIYMUCMIEYRY4hxxGLEEsRSBGA-GQJi2hMgliGOEQfECQJiPhQBYYjTRztXFqP35-ksww87RJYgpTc2nKL355kNZ05r47zL3ATEZU-505zGbuvEbZ169kLQjyRmjgHqmcB8E9yxMY_RM8ETHvAxAPdMiH0T3FuimdueYac5A485cZtTjzlzm3N08h5s2P10WeK29jxd8MUePLEn2DOBuHOTDaHkFs7doeTgMXeH0hSs-ZZg457kJAytV91CFjYDRYuV3CxkEWE6jg7v6yxBeafnWTwiKepUu6hWMqrK-cQy21qm41cCjKemZDIAgy1MiCif2o5fGGg8mFI-IsnUko54urVMJjwEDa_ZKO9v61pqdbu9i5LlHJ53efFR6urX3LT2qG5LacDdyttpVTlnBGNYTJaku61P3WGfR4M_gSbZ0bAJln4Fb-RDmmxHM3lq8DW8eUgDfEsDE28gfro35cOgwS5oMGYrzZ7uzEMWhrdplo0IPNmTBXvIQQYONpYBo0_2Y5-DbTnGAmIc3Rlv5vxugTl-riupJpXOtiXJxpJkiXMmWDO3JcomJQpPT-qY7aXBLqlhktQEPzl--zRk18TIxL_sPg5zSOPn0442xCJarPKliehmS3Px5uLt_Wy-zSw2ZhYH73rkE9bbZhGHyZ533YuM3Yub02aXVyq6qZqyvTFdGY9viN85oGX22ch8EdyH7MNXZp_ZzPvCxuwDIOU2ZG-D2tugjjMgJg7McTDEzIHZFKZJ25jDV3CsB7Zjpk3amMM1m4LZ0WR2MJntP7PdZ_Zumb1ZZu-V2VtljgiBC3NEjbiO5w6n7KncnsntidyRDcSFOTKE2DHijquKGC3bdhkpWV_u4fsXCpOhoqjRotpfqMmLjw4Idatqr_rclKmfMnVSpjZl6qQ0pezkNAM-UjPmYDXwPu0dts9LuZuWci8r5S5Syi3OHWRRJh7KxE-ZOCkTmzLxRJf4okseiS5xR5c4oks8vMzHyx7hZW5e5uBlHl5PBpsBP68zhw1s83qyGHz-wiP-gttfcPgLHn_B0yTMgJ_X2SYMbPO6GwXNPKmc-VM5c6ZyZqdy5qRk4KZk9v3qZMhBycCi3EEWJfVQUj8ldVJSm5K6KT1tifnbEnO2JWa3JeZuS8zTlpi_LTFnW2J2W2KetgS-MoVHyhTcZQqOMgVPmRLfy4Y88rIh7pcNcbxsiPtlwzzlwvzlwpzlwuxyYe5y4Z5y4f5y4c5y4Xa5cHe5cE-5cLtc7hSQR9UC3S4WvdRHX135ADrQ0mXXieGqPWpVJRs9nOqO_tcKCf88J7pVftuudVTKVX47WSb-vGW2fhZto2WjI33bTQOSfMlauqqrZjlZJf28VYp21aqo7_JiupVP1o_uniX-3Qnm714rmdfRw6mPC3DD1OG8K8vIu8Y2JXsxm-VtLcsqL9pSFsfLSl-tL4-rdpZfw3Z2J4vZ30rZyaaUTXEblbIvVNXpVg3jVzIvpRqz5sinkQ3XMEEjCxrZBA4aWdDIRjxoZEEjCxpZ0MiCRhY0sqCRjUjQyIJGFjSyB7dVQSO7R4NGFjSyoJEFjex-LGhkDihoZHt40MiCRhY0sqCRBY3sD6SRDTdjQSMLGtkEDhpZ0MhGPGhkQSMLGlnQyIJGFjSyoJGNSNDIgkYWNLIHt1VBI7tHg0YWNLKgkQWN7H4saGQOKGhke3jQyIJGFjSyoJEFjewPpJENlylBI8u7blUVQ8nulLKXRiq7ePH2HG2TLypznRdXedOYf8Pp0qmc8Y3_X2LaF7qLTEsSfHdJU-ebqJZ9ny9lZOIrSEyAsaPD7w_-C1w4N-wwYAAA Object
-livekit-client.umd.js:1 signal connected Object
-livekit-client.umd.js:1 connected to Livekit Server edition: 0, version: 1.13.9, protocol: 17, region: , nodeId: ND_9ajhiWSWDkGz, debugInfo: , agentProtocol: 1 Object
-livekit-client.umd.js:1 error reading from signal stream Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 error reading from signal stream Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 ping timeout triggered. last pong received at: Fri, 09 Oct 2026 18:53:45 GMT Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 websocket connection closed: ping timeout Object
-livekit-client.umd.js:1 signal disconnected Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 resuming signal connection, attempt 0 Object
-livekit-client.umd.js:1 signal connecting to ws://201.7.17.108:7880/rtc/v1?access_token=%3Credacted%3E&join_request=CAESQh-LCAAAAAAAAArjEuRgFGIz0jMy0jOREExgymJkEmLhYBRgtGB0YPTiD3CMD7JMynDyMwkxd8vwBQCmcDxbLgAAAA%3D%3D Object
-livekit-client.umd.js:1 signal connected Object
-livekit-client.umd.js:1 triggering ICE restart Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 reconnect disconnected Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 reconnecting, attempt: 1 Object
-livekit-client.umd.js:1 signal connecting to ws://201.7.17.108:7880/rtc/v1?access_token=%3Credacted%3E&join_request=CAESlREfiwgAAAAAAAAK7Vzdbhy3FYaCtggECGh8lUsCvSxGy8Of-aGxF4pkxSkcQ41s97bjGe5q6p2fcLjSKg_QF-gL5dEKzq40oyWp2JYLBAUvFlh9POTHc-acM0t-gA6_-frg2Z_IMSHH7Ntv_vnVvw6-evaHrw_-fED-8-vB4R_bxUKqZ__-9eB6jo8O23mEWAoJACEEKE0zDDzOEEE_vEY_XDAEJDnGx_gYjg77eXR0qOcY4aPDfC43us67KF-t2puorjayNGjdV2XUyzpvdFUIhP7x46WBl6pdd-K7t6_PXr1AGAEiiCKGOIqPDut5vi6rFmXo7dnF7M2ry9lPby5mlyfvLs4RAKCYogxhlCKgCAAjIPHRYTHf7Q8Puxt2pHRX550wc9pu3c9YijGekclQTJGSpWMgQ98nhMwMPkExujj98e0-mhr0ZB8Fik5fWyBgpOVKdldtIyN5LRu9JZ_akNiyuTNZ1HrrT101na5qOQf8fN3LqnmfN-VCFnO4N4tNdGAGANvFC-OVK0hFFy3eD6sqpdUUM-HZgzILwRaSWgjYC5lQWBiJHXaAtMqbvmuVjopiTDUBaK0aUUm9EF2u8roXSnfRVankRou-V0U0JFK0ktdyNZlH0JXWnZjNbm5ujm_ke6WL41YtZ3LTSVXVstH9bFxplr_vo142ZWQCPlmGTpcxuxgWqcpZqfKFjq7aVS1VpOoi19HowU1VyqgoIrnRsumrtukjDJNV2aNOlbIXdTVUVi_1uhN5obu874dSq0qxfaSyuG6b1a35XhUyWi9UvhTZ-W17h3Q3pTh5e1JUL181P_91_be2kC-_qzZ__17JbEigqllK1amq0aK_yiPCY8ROBc3ECROnZyI-F5AIzkXCxDkTL07E2anAIE6pgFS8wIJykSUiPRVJImIQ9MxYZqfiHIsEBOHG-JyLc2qQlIlTcre1ttMmKEKrqviwkvepUK83999VX_0yjmyUUMW1ipTW83y1Cg0kNJDQQD63gUBoIKGBhAYSGsjnNhASGohpINdVKd0NJItRlqAsRVmGAGMEGBDliMaIJoimCDBBgCkCzBDgBAE2WIYAGALgCCBGAAmiGWIYMUCMIEYRY4hxxGLEEsRSBGA-GQJi2hMgliGOEQfECQJiPhQBYYjTRztXFqN3F-ksww87RJYgpTc2nKJ3F5kNZ05r47zL3ATEZU-505zGbuvEbZ169kLQSxIzxwD1TGC-Ce7YmMfomeAJD_gYgHsmxL4J7i3RzG3PsNOcgcecuM2px5y5zTk6eQc27H66LHFbe54u-GIPntgT7JlA3LnJhlByC-fuUHLwmLtDaQrW_EqwcU9yEobWq24hC5uBosVKbhayiDAdR4f3dZagvNPzLB6RFHWqXVQrGVXlfGKZbS3T8ScBxlNTMhmAwRYmRJRPbccfDDQeTCkfkWRqSUc83VomEx6ChtdslPe3dS21ut3eRclyDs-7vPggdfVLblp7VLelNOBu5e20qpwzgjEsJkvS3dan7rBPo8EfQZPsaNgES7-AN_IhTbajmTw1-BLePKQBvqWBiTcQP92b8mHQYBc0GLOVZk935iELw9s0y0YEnuzJgj3kIAMHG8uA0Sf7sc_BthxjATGO7ow3c363wBw_15VUk0pn25JkY0myxDkTrJnbEmWTEoWnJ3XM9tJgl9QwSWqCnxy_fRqya2Jk4l92H4c5pPHzaUcbYhEtVvnSRHSzpbn86fLN_Wy-zSw2ZhYH73rkI9bbZhGHyZ533YuM3Yub02aXVyq6qZqyvTFdGY9viN84oGX22cj8ENyH7MNXZp_ZzPvCxuwDIOU2ZG-D2tugjjMgJg7McTDEzIHZFKZJ25jDV3CsB7Zjpk3amMM1m4LZ0WR2MJntP7PdZ_Zumb1ZZu-V2VtljgiBC3NEjbiO5w6n7KncnsntidyRDcSFOTKE2DHijquKGC3bdhkpWb_fw_cvFCZDRVGjRbW_UJMXHxwQ6lbVXvW5KVM_ZeqkTG3K1ElpStnJaQZ8pGbMwWrgfdo7bJ-Xcjct5V5Wyl2klFucO8iiTDyUiZ8ycVImNmXiiS7xRZc8El3iji5xRJd4eJmPlz3Cy9y8zMHLPLyeDDYDfl5nDhvY5vVkMfj8hUf8Bbe_4PAXPP6Cp0mYAT-vs00Y2OZ1NwqaeVI586dy5kzlzE7lzEnJwE3J7PvVyZCDkoFFuYMsSuqhpH5K6qSkNiV1U3raEvO3JeZsS8xuS8zdlpinLTF_W2LOtsTstsQ8bQl8ZQqPlCm4yxQcZQqeMiW-lw155GVD3C8b4njZEPfLhnnKhfnLhTnLhdnlwtzlwj3lwv3lwp3lwu1y4e5y4Z5y4Xa53Ckgj6oFul0seqmPvrjyAXSgpcuuE8NVe9SqSjZ6ONUd_a8VEv5pTnSr_LZd66iUq_x2skz8acts_SzaRstGR_q2mwYk-Zy1dFVXzXKySvppqxTtqlVR3-XFdCsfrR_dPUv8mxPM371WMq-jh1MfF-CGqcN5V5aRd41tSvZiNsvbWpZVXrSlLI6Xlb5avz-u2ll-DdvZnSxmfyllJ5tSNsVtVMq-UFWnWzWMX8m8lGrMmiOfRjZcwwSNLGhkEzhoZEEjG_GgkQWNLGhkQSMLGlnQyIJGNiJBIwsaWdDIHtxWBY3sHg0aWdDIgkYWNLL7saCROaCgke3hQSMLGlnQyIJGFjSy35FGNtyMBY0saGQTOGhkQSMb8aCRBY0saGRBIwsaWdDIgkY2IkEjCxpZ0Mge3FYFjeweDRpZ0MiCRhY0svuxoJE5oKCR7eFBIwsaWdDIgkYWNLLfkUY2XKYEjSzvulVVDCW7U8rOjFR2efrmAm2TLypznRdXedOYf8Pp0qmc8Y3_X2LaF7qLTEsSfHdJU-ebqJZ9ny9lZOIrSEyAsaPDbw_-C8r6auUwYAAA Object
-livekit-client.umd.js:1 signal connected Object
-livekit-client.umd.js:1 connected to Livekit Server edition: 0, version: 1.13.9, protocol: 17, region: , nodeId: ND_9ajhiWSWDkGz, debugInfo: , agentProtocol: 1 Object
-livekit-client.umd.js:1 error reading from signal stream Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 error reading from signal stream Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 ping timeout triggered. last pong received at: Fri, 09 Oct 2026 18:54:04 GMT Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 websocket connection closed: ping timeout Object
-livekit-client.umd.js:1 signal disconnected Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 resuming signal connection, attempt 0 Object
-livekit-client.umd.js:1 signal connecting to ws://201.7.17.108:7880/rtc/v1?access_token=%3Credacted%3E&join_request=CAESQh-LCAAAAAAAAArjEuRgFGIz0jMy0jOREExgymJkEmLhYBRgtGB0YPTiD3CMD7JMynDyMwkxd8vwBQCmcDxbLgAAAA%3D%3D Object
-livekit-client.umd.js:1 signal connected Object
-livekit-client.umd.js:1 triggering ICE restart Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 ping timeout triggered. last pong received at: Fri, 09 Oct 2026 18:54:06 GMT Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 websocket connection closed: ping timeout Object
-livekit-client.umd.js:1 signal disconnected Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 resuming signal connection, attempt 0 Object
-livekit-client.umd.js:1 signal connecting to ws://201.7.17.108:7880/rtc/v1?access_token=%3Credacted%3E&join_request=CAESQh-LCAAAAAAAAArjEuRgFGIz0jMy0jOREExgymJkEmLhYBRgtGB0YPTiD3CML05NSnLLzMv0zTQzAgBQIceWLgAAAA%3D%3D Object
-livekit-client.umd.js:1 signal connected Object
-livekit-client.umd.js:1 triggering ICE restart Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 error reading from signal stream Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 error reading from signal stream Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 ping timeout triggered. last pong received at: Fri, 09 Oct 2026 18:54:23 GMT Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 websocket connection closed: ping timeout Object
-livekit-client.umd.js:1 signal disconnected Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 resuming signal connection, attempt 0 Object
-livekit-client.umd.js:1 signal connecting to ws://201.7.17.108:7880/rtc/v1?access_token=%3Credacted%3E&join_request=CAESQh-LCAAAAAAAAArjEuRgFGIz0jMy0jOREExgymJkEmLhYBRgtGB0YPTiD3CMD7JMynDyMwkxd8vwBQCmcDxbLgAAAA%3D%3D Object
-livekit-client.umd.js:1 ping timeout triggered. last pong received at: Fri, 09 Oct 2026 18:54:24 GMT Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 websocket connection closed: ping timeout Object
-livekit-client.umd.js:1 signal disconnected Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 resuming signal connection, attempt 0 Object
-livekit-client.umd.js:1 signal connecting to ws://201.7.17.108:7880/rtc/v1?access_token=%3Credacted%3E&join_request=CAESQh-LCAAAAAAAAArjEuRgFGIz0jMy0jOREExgymJkEmLhYBRgtGB0YPTiD3CML05NSnLLzMv0zTQzAgBQIceWLgAAAA%3D%3D Object
-livekit-client.umd.js:1 signal connected Object
-livekit-client.umd.js:1 triggering ICE restart Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 signal connected Object
-livekit-client.umd.js:1 triggering ICE restart Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 error reading from signal stream Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 error reading from signal stream Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 ping timeout triggered. last pong received at: Fri, 09 Oct 2026 18:54:43 GMT Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 websocket connection closed: ping timeout Object
-livekit-client.umd.js:1 signal disconnected Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 resuming signal connection, attempt 0 Object
-livekit-client.umd.js:1 signal connecting to ws://201.7.17.108:7880/rtc/v1?access_token=%3Credacted%3E&join_request=CAESQh-LCAAAAAAAAArjEuRgFGIz0jMy0jOREExgymJkEmLhYBRgtGB0YPTiD3CMD7JMynDyMwkxd8vwBQCmcDxbLgAAAA%3D%3D Object
-livekit-client.umd.js:1 signal connected Object
-livekit-client.umd.js:1 triggering ICE restart Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 ping timeout triggered. last pong received at: Fri, 09 Oct 2026 18:54:45 GMT Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 websocket connection closed: ping timeout Object
-livekit-client.umd.js:1 signal disconnected Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 resuming signal connection, attempt 0 Object
-livekit-client.umd.js:1 signal connecting to ws://201.7.17.108:7880/rtc/v1?access_token=%3Credacted%3E&join_request=CAESQh-LCAAAAAAAAArjEuRgFGIz0jMy0jOREExgymJkEmLhYBRgtGB0YPTiD3CML05NSnLLzMv0zTQzAgBQIceWLgAAAA%3D%3D Object
-livekit-client.umd.js:1 signal connected Object
-livekit-client.umd.js:1 triggering ICE restart Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 error reading from signal stream Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 error reading from signal stream Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 ping timeout triggered. last pong received at: Fri, 09 Oct 2026 18:55:03 GMT Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 websocket connection closed: ping timeout Object
-livekit-client.umd.js:1 signal disconnected Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 resuming signal connection, attempt 0 Object
-livekit-client.umd.js:1 signal connecting to ws://201.7.17.108:7880/rtc/v1?access_token=%3Credacted%3E&join_request=CAESQh-LCAAAAAAAAArjEuRgFGIz0jMy0jOREExgymJkEmLhYBRgtGB0YPTiD3CMD7JMynDyMwkxd8vwBQCmcDxbLgAAAA%3D%3D Object
-livekit-client.umd.js:1 signal connected Object
-livekit-client.umd.js:1 triggering ICE restart Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 ping timeout triggered. last pong received at: Fri, 09 Oct 2026 18:55:04 GMT Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 websocket connection closed: ping timeout Object
-livekit-client.umd.js:1 signal disconnected Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 resuming signal connection, attempt 0 Object
-livekit-client.umd.js:1 signal connecting to ws://201.7.17.108:7880/rtc/v1?access_token=%3Credacted%3E&join_request=CAESQh-LCAAAAAAAAArjEuRgFGIz0jMy0jOREExgymJkEmLhYBRgtGB0YPTiD3CML05NSnLLzMv0zTQzAgBQIceWLgAAAA%3D%3D Object
-livekit-client.umd.js:1 signal connected Object
-livekit-client.umd.js:1 triggering ICE restart Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 error reading from signal stream Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 error reading from signal stream Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 ping timeout triggered. last pong received at: Fri, 09 Oct 2026 18:55:21 GMT Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 ping timeout triggered. last pong received at: Fri, 09 Oct 2026 18:55:21 GMT Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 websocket connection closed: ping timeout Object
-livekit-client.umd.js:1 signal disconnected Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 websocket connection closed: ping timeout Object
-livekit-client.umd.js:1 signal disconnected Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 resuming signal connection, attempt 0 Object
-livekit-client.umd.js:1 signal connecting to ws://201.7.17.108:7880/rtc/v1?access_token=%3Credacted%3E&join_request=CAESQh-LCAAAAAAAAArjEuRgFGIz0jMy0jOREExgymJkEmLhYBRgtGB0YPTiD3CMD7JMynDyMwkxd8vwBQCmcDxbLgAAAA%3D%3D Object
-livekit-client.umd.js:1 resuming signal connection, attempt 0 Object
-livekit-client.umd.js:1 signal connecting to ws://201.7.17.108:7880/rtc/v1?access_token=%3Credacted%3E&join_request=CAESQh-LCAAAAAAAAArjEuRgFGIz0jMy0jOREExgymJkEmLhYBRgtGB0YPTiD3CML05NSnLLzMv0zTQzAgBQIceWLgAAAA%3D%3D Object
-livekit-client.umd.js:1 signal connected Object
-livekit-client.umd.js:1 triggering ICE restart Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 signal connected Object
-livekit-client.umd.js:1 triggering ICE restart Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 error reading from signal stream Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 error reading from signal stream Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 ping timeout triggered. last pong received at: Fri, 09 Oct 2026 18:55:38 GMT Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 websocket connection closed: ping timeout Object
-livekit-client.umd.js:1 signal disconnected Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 resuming signal connection, attempt 0 Object
-livekit-client.umd.js:1 signal connecting to ws://201.7.17.108:7880/rtc/v1?access_token=%3Credacted%3E&join_request=CAESQh-LCAAAAAAAAArjEuRgFGIz0jMy0jOREExgymJkEmLhYBRgtGB0YPTiD3CMD7JMynDyMwkxd8vwBQCmcDxbLgAAAA%3D%3D Object
-livekit-client.umd.js:1 signal connected Object
-livekit-client.umd.js:1 triggering ICE restart Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 ping timeout triggered. last pong received at: Fri, 09 Oct 2026 18:55:42 GMT Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 websocket connection closed: ping timeout Object
-livekit-client.umd.js:1 signal disconnected Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 resuming signal connection, attempt 0 Object
-livekit-client.umd.js:1 signal connecting to ws://201.7.17.108:7880/rtc/v1?access_token=%3Credacted%3E&join_request=CAESQh-LCAAAAAAAAArjEuRgFGIz0jMy0jOREExgymJkEmLhYBRgtGB0YPTiD3CML05NSnLLzMv0zTQzAgBQIceWLgAAAA%3D%3D Object
-livekit-client.umd.js:1 signal connected Object
-livekit-client.umd.js:1 triggering ICE restart Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 error reading from signal stream Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 error reading from signal stream Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 ping timeout triggered. last pong received at: Fri, 09 Oct 2026 18:55:57 GMT Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 websocket connection closed: ping timeout Object
-livekit-client.umd.js:1 signal disconnected Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 resuming signal connection, attempt 0 Object
-livekit-client.umd.js:1 signal connecting to ws://201.7.17.108:7880/rtc/v1?access_token=%3Credacted%3E&join_request=CAESQh-LCAAAAAAAAArjEuRgFGIz0jMy0jOREExgymJkEmLhYBRgtGB0YPTiD3CMD7JMynDyMwkxd8vwBQCmcDxbLgAAAA%3D%3D Object
-livekit-client.umd.js:1 signal connected Object
-livekit-client.umd.js:1 triggering ICE restart Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 ping timeout triggered. last pong received at: Fri, 09 Oct 2026 18:56:01 GMT Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 websocket connection closed: ping timeout Object
-livekit-client.umd.js:1 signal disconnected Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 resuming signal connection, attempt 0 Object
-livekit-client.umd.js:1 signal connecting to ws://201.7.17.108:7880/rtc/v1?access_token=%3Credacted%3E&join_request=CAESQh-LCAAAAAAAAArjEuRgFGIz0jMy0jOREExgymJkEmLhYBRgtGB0YPTiD3CML05NSnLLzMv0zTQzAgBQIceWLgAAAA%3D%3D Object
-livekit-client.umd.js:1 signal connected Object
-livekit-client.umd.js:1 triggering ICE restart Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 error reading from signal stream Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 error reading from signal stream Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 ping timeout triggered. last pong received at: Fri, 09 Oct 2026 18:56:17 GMT Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 websocket connection closed: ping timeout Object
-livekit-client.umd.js:1 signal disconnected Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 resuming signal connection, attempt 0 Object
-livekit-client.umd.js:1 signal connecting to ws://201.7.17.108:7880/rtc/v1?access_token=%3Credacted%3E&join_request=CAESQh-LCAAAAAAAAArjEuRgFGIz0jMy0jOREExgymJkEmLhYBRgtGB0YPTiD3CMD7JMynDyMwkxd8vwBQCmcDxbLgAAAA%3D%3D Object
-livekit-client.umd.js:1 signal connected Object
-livekit-client.umd.js:1 triggering ICE restart Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 ping timeout triggered. last pong received at: Fri, 09 Oct 2026 18:56:21 GMT Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 websocket connection closed: ping timeout Object
-livekit-client.umd.js:1 signal disconnected Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 resuming signal connection, attempt 0 Object
-livekit-client.umd.js:1 signal connecting to ws://201.7.17.108:7880/rtc/v1?access_token=%3Credacted%3E&join_request=CAESQh-LCAAAAAAAAArjEuRgFGIz0jMy0jOREExgymJkEmLhYBRgtGB0YPTiD3CML05NSnLLzMv0zTQzAgBQIceWLgAAAA%3D%3D Object
-livekit-client.umd.js:1 signal connected Object
-livekit-client.umd.js:1 triggering ICE restart Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 error reading from signal stream Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 error reading from signal stream Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 ping timeout triggered. last pong received at: Fri, 09 Oct 2026 18:56:37 GMT Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 websocket connection closed: ping timeout Object
-livekit-client.umd.js:1 signal disconnected Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 resuming signal connection, attempt 0 Object
-livekit-client.umd.js:1 signal connecting to ws://201.7.17.108:7880/rtc/v1?access_token=%3Credacted%3E&join_request=CAESQh-LCAAAAAAAAArjEuRgFGIz0jMy0jOREExgymJkEmLhYBRgtGB0YPTiD3CMD7JMynDyMwkxd8vwBQCmcDxbLgAAAA%3D%3D Object
-livekit-client.umd.js:1 signal connected Object
-livekit-client.umd.js:1 triggering ICE restart Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 ping timeout triggered. last pong received at: Fri, 09 Oct 2026 18:56:39 GMT Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 websocket connection closed: ping timeout Object
-livekit-client.umd.js:1 signal disconnected Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 resuming signal connection, attempt 0 Object
-livekit-client.umd.js:1 signal connecting to ws://201.7.17.108:7880/rtc/v1?access_token=%3Credacted%3E&join_request=CAESQh-LCAAAAAAAAArjEuRgFGIz0jMy0jOREExgymJkEmLhYBRgtGB0YPTiD3CML05NSnLLzMv0zTQzAgBQIceWLgAAAA%3D%3D Object
-livekit-client.umd.js:1 signal connected Object
-livekit-client.umd.js:1 triggering ICE restart Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 error reading from signal stream Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 error reading from signal stream Object
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 ping timeout triggered. last pong received at: Fri, 09 Oct 2026 18:56:57 GMT {room: 'main', roomID: 'RM_XnaWfuZ7QZ2c', participant: 'Volodya-64b61b', participantID: 'PA_R9bhBN4T7FhM'}
-(anonymous) @ livekit-client.umd.js:1
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 websocket connection closed: ping timeout {room: 'main', roomID: 'RM_XnaWfuZ7QZ2c', participant: 'Volodya-64b61b', participantID: 'PA_R9bhBN4T7FhM', reason: 'ping timeout'}
-livekit-client.umd.js:1 signal disconnected {room: 'main', roomID: 'RM_XnaWfuZ7QZ2c', participant: 'Volodya-64b61b', participantID: 'PA_R9bhBN4T7FhM'}
-(anonymous) @ livekit-client.umd.js:1
-Ol.handleDisconnect @ livekit-client.umd.js:1
-client.onClose @ livekit-client.umd.js:1
-(anonymous) @ livekit-client.umd.js:1
-o @ livekit-client.umd.js:1
-Promise.then
-d @ livekit-client.umd.js:1
-(anonymous) @ livekit-client.umd.js:1
-kr @ livekit-client.umd.js:1
-handleOnClose @ livekit-client.umd.js:1
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 resuming signal connection, attempt 0 {room: 'main', roomID: 'RM_XnaWfuZ7QZ2c', participant: 'Volodya-64b61b', participantID: 'PA_R9bhBN4T7FhM'}
-livekit-client.umd.js:1 signal connecting to ws://201.7.17.108:7880/rtc/v1?access_token=%3Credacted%3E&join_request=CAESQh-LCAAAAAAAAArjEuRgFGIz0jMy0jOREExgymJkEmLhYBRgtGB0YPTiD3CMD7JMynDyMwkxd8vwBQCmcDxbLgAAAA%3D%3D {room: 'main', roomID: 'RM_XnaWfuZ7QZ2c', participant: 'Volodya-64b61b', participantID: 'PA_R9bhBN4T7FhM', reconnect: true, …}
-livekit-client.umd.js:1 signal connected {room: 'main', roomID: 'RM_XnaWfuZ7QZ2c', participant: 'Volodya-64b61b', participantID: 'PA_R9bhBN4T7FhM'}
-livekit-client.umd.js:1 triggering ICE restart {room: 'main', roomID: 'RM_XnaWfuZ7QZ2c', participant: 'Volodya-64b61b', participantID: 'PA_R9bhBN4T7FhM'}
-(anonymous) @ livekit-client.umd.js:1
-(anonymous) @ livekit-client.umd.js:1
-(anonymous) @ livekit-client.umd.js:1
-kr @ livekit-client.umd.js:1
-triggerIceRestart @ livekit-client.umd.js:1
-(anonymous) @ livekit-client.umd.js:1
-o @ livekit-client.umd.js:1
-Promise.then
-d @ livekit-client.umd.js:1
-(anonymous) @ livekit-client.umd.js:1
-kr @ livekit-client.umd.js:1
-resumeConnection @ livekit-client.umd.js:1
-(anonymous) @ livekit-client.umd.js:1
-(anonymous) @ livekit-client.umd.js:1
-kr @ livekit-client.umd.js:1
-attemptReconnect @ livekit-client.umd.js:1
-(anonymous) @ livekit-client.umd.js:1
-setTimeout
-da.setTimeout @ livekit-client.umd.js:1
-Ol.handleDisconnect @ livekit-client.umd.js:1
-client.onClose @ livekit-client.umd.js:1
-(anonymous) @ livekit-client.umd.js:1
-o @ livekit-client.umd.js:1
-Promise.then
-d @ livekit-client.umd.js:1
-(anonymous) @ livekit-client.umd.js:1
-kr @ livekit-client.umd.js:1
-handleOnClose @ livekit-client.umd.js:1
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 ping timeout triggered. last pong received at: Fri, 09 Oct 2026 18:56:59 GMT {room: 'main', roomID: 'RM_XnaWfuZ7QZ2c', participant: 'Volodya-07deee', participantID: 'PA_sebbFiniMi62'}
-(anonymous) @ livekit-client.umd.js:1
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 websocket connection closed: ping timeout {room: 'main', roomID: 'RM_XnaWfuZ7QZ2c', participant: 'Volodya-07deee', participantID: 'PA_sebbFiniMi62', reason: 'ping timeout'}
-livekit-client.umd.js:1 signal disconnected {room: 'main', roomID: 'RM_XnaWfuZ7QZ2c', participant: 'Volodya-07deee', participantID: 'PA_sebbFiniMi62'}
-(anonymous) @ livekit-client.umd.js:1
-Ol.handleDisconnect @ livekit-client.umd.js:1
-client.onClose @ livekit-client.umd.js:1
-(anonymous) @ livekit-client.umd.js:1
-o @ livekit-client.umd.js:1
-Promise.then
-d @ livekit-client.umd.js:1
-(anonymous) @ livekit-client.umd.js:1
-kr @ livekit-client.umd.js:1
-handleOnClose @ livekit-client.umd.js:1
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 resuming signal connection, attempt 0 {room: 'main', roomID: 'RM_XnaWfuZ7QZ2c', participant: 'Volodya-07deee', participantID: 'PA_sebbFiniMi62'}
-livekit-client.umd.js:1 signal connecting to ws://201.7.17.108:7880/rtc/v1?access_token=%3Credacted%3E&join_request=CAESQh-LCAAAAAAAAArjEuRgFGIz0jMy0jOREExgymJkEmLhYBRgtGB0YPTiD3CML05NSnLLzMv0zTQzAgBQIceWLgAAAA%3D%3D {room: 'main', roomID: 'RM_XnaWfuZ7QZ2c', participant: 'Volodya-07deee', participantID: 'PA_sebbFiniMi62', reconnect: true, …}
-livekit-client.umd.js:1 signal connected {room: 'main', roomID: 'RM_XnaWfuZ7QZ2c', participant: 'Volodya-07deee', participantID: 'PA_sebbFiniMi62'}
-livekit-client.umd.js:1 triggering ICE restart {room: 'main', roomID: 'RM_XnaWfuZ7QZ2c', participant: 'Volodya-07deee', participantID: 'PA_sebbFiniMi62'}
-(anonymous) @ livekit-client.umd.js:1
-(anonymous) @ livekit-client.umd.js:1
-(anonymous) @ livekit-client.umd.js:1
-kr @ livekit-client.umd.js:1
-triggerIceRestart @ livekit-client.umd.js:1
-(anonymous) @ livekit-client.umd.js:1
-o @ livekit-client.umd.js:1
-Promise.then
-d @ livekit-client.umd.js:1
-(anonymous) @ livekit-client.umd.js:1
-kr @ livekit-client.umd.js:1
-resumeConnection @ livekit-client.umd.js:1
-(anonymous) @ livekit-client.umd.js:1
-(anonymous) @ livekit-client.umd.js:1
-kr @ livekit-client.umd.js:1
-attemptReconnect @ livekit-client.umd.js:1
-(anonymous) @ livekit-client.umd.js:1
-setTimeout
-da.setTimeout @ livekit-client.umd.js:1
-Ol.handleDisconnect @ livekit-client.umd.js:1
-client.onClose @ livekit-client.umd.js:1
-(anonymous) @ livekit-client.umd.js:1
-o @ livekit-client.umd.js:1
-Promise.then
-d @ livekit-client.umd.js:1
-(anonymous) @ livekit-client.umd.js:1
-kr @ livekit-client.umd.js:1
-handleOnClose @ livekit-client.umd.js:1
-(anonymous) @ livekit-client.umd.js:1
-livekit-client.umd.js:1 error reading from signal stream {room: 'main', roomID: 'RM_XnaWfuZ7QZ2c', participant: 'Volodya-64b61b', participantID: 'PA_R9bhBN4T7FhM', error: ConnectionError: WS closed unexpectedly with code 1006
-    at Xs.websocket (file:///C:/my-discord-a…}
-(anonymous) @ livekit-client.umd.js:1
-(anonymous) @ livekit-client.umd.js:1
-c @ livekit-client.umd.js:1
+Адаптер Ethernet Ethernet:
+
+   Состояние среды. . . . . . . . : Среда передачи недоступна.
+   DNS-суффикс подключения . . . . . : Home
+
+Адаптер беспроводной локальной сети Подключение по локальной сети* 9:
+
+   Состояние среды. . . . . . . . : Среда передачи недоступна.
+   DNS-суффикс подключения . . . . . :
+
+Адаптер беспроводной локальной сети Подключение по локальной сети* 10:
+
+   Состояние среды. . . . . . . . : Среда передачи недоступна.
+   DNS-суффикс подключения . . . . . :
+
+Адаптер беспроводной локальной сети Беспроводная сеть:
+
+   DNS-суффикс подключения . . . . . :
+   Локальный IPv6-адрес канала . . . : fe80::492e:d4d3:5d1e:a7e8%4
+   IPv4-адрес. . . . . . . . . . . . : 192.168.0.105
+   Маска подсети . . . . . . . . . . : 255.255.255.0
+   Основной шлюз. . . . . . . . . : 192.168.0.1
+PS C:\Users\vladi> ping -n 100 201.7.17.108
+
+Обмен пакетами с 201.7.17.108 по с 32 байтами данных:
+Ответ от 201.7.17.108: число байт=32 время=68мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=72мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=74мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=68мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=68мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=69мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=67мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=74мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=71мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=75мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=70мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=69мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=70мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=68мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=67мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=71мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=68мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=73мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=70мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=74мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=68мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=73мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=70мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=67мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=69мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=73мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=67мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=71мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=69мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=69мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=73мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=69мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=68мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=70мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=70мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=72мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=74мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=71мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=67мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=69мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=76мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=70мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=68мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=71мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=70мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=79мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=69мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=67мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=67мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=70мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=68мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=70мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=74мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=69мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=66мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=72мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=70мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=68мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=69мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=69мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=69мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=69мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=68мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=71мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=72мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=71мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=69мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=67мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=70мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=71мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=69мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=70мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=69мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=67мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=76мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=71мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=70мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=70мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=67мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=71мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=68мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=73мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=70мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=69мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=70мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=69мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=71мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=72мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=75мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=77мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=71мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=72мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=68мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=69мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=72мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=71мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=73мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=70мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=70мс TTL=54
+Ответ от 201.7.17.108: число байт=32 время=72мс TTL=54
+
+Статистика Ping для 201.7.17.108:
+    Пакетов: отправлено = 100, получено = 100, потеряно = 0
+    (0% потерь)
+Приблизительное время приема-передачи в мс:
+    Минимальное = 66мсек, Максимальное = 79 мсек, Среднее = 70 мсек
