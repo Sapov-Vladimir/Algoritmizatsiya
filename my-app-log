@@ -1,148 +1,20 @@
-client.js:57 ✅ Подключено к серверу
-client.js:67 👥 Пользователи в комнате: Array(2)
-client.js:112 🔨 Создаем НОВОЕ соединение с Vladimir | Я старший: true
-client.js:294 🎤 Запрос микрофона...
-client.js:202 🔄 Создаю Offer для Vladimir (старший)
-client.js:298 ✅ Микрофон получен
-client.js:304 🔄 Пересоздание соединений с новым аудио-треком...
-client.js:93 🗑️ Уничтожение соединения с Vladimir
-client.js:112 🔨 Создаем НОВОЕ соединение с Vladimir | Я старший: true
-client.js:122 ➕ Трек audio добавлен при создании
-client.js:177 🔔 Сработал onnegotiationneeded для Vladimir
-client.js:184 🔄 Начало переговоров с Vladimir
-client.js:248 📩 Получен Answer от Vladimir
-client.js:252 ❌ Ошибка Answer. Сброс: InvalidAccessError: Failed to execute 'setRemoteDescription' on 'RTCPeerConnection': Failed to set remote answer sdp: The order of m-lines in answer doesn't match order in offer. Rejecting answer.
-handleAnswer @ client.js:252
-client.js:93 🗑️ Уничтожение соединения с Vladimir
-client.js:256 ⚠️ Игнорирован Answer. Состояние: нет PC
-client.js:221 📩 Получен Offer от Vladimir
-client.js:112 🔨 Создаем НОВОЕ соединение с Vladimir | Я старший: false
-client.js:122 ➕ Трек audio добавлен при создании
-client.js:164 🎥 ПОЛУЧЕН ПОТОК от Vladimir!
-client.js:167   - Тип: audio | Enabled: true | Muted: true
-client.js:236 ✅ Answer отправлен
-client.js:172 ✅ Воспроизведение запущено для Vladimir
-client.js:141 📦 ICE кандидат: relay (201.7.17.108)
-client.js:57 ✅ Подключено к серверу
-client.js:67 👥 Пользователи в комнате: Array(2)
-client.js:105 ⚠️ Соединение с Vladimir уже стабильно, пропускаем
-client.js:81 ➖ Вышел: Vladimir
-client.js:93 🗑️ Уничтожение соединения с Vladimir
-client.js:76 ➕ Присоединился: Vladimir
-client.js:112 🔨 Создаем НОВОЕ соединение с Vladimir | Я старший: true
-client.js:122 ➕ Трек audio добавлен при создании
-client.js:177 🔔 Сработал onnegotiationneeded для Vladimir
-client.js:184 🔄 Начало переговоров с Vladimir
-client.js:248 📩 Получен Answer от Vladimir
-client.js:164 🎥 ПОЛУЧЕН ПОТОК от Vladimir!
-client.js:167   - Тип: audio | Enabled: true | Muted: true
-client.js:141 📦 ICE кандидат: relay (201.7.17.108)
-client.js:172 ✅ Воспроизведение запущено для Vladimir
-client.js:202 🔄 Создаю Offer для Vladimir (старший)
-client.js:248 📩 Получен Answer от Vladimir
-client.js:127 🌐 [ICE] Vladimir: checking
-client.js:127 🌐 [ICE] Vladimir: connected
-client.js:57 ✅ Подключено к серверу
-client.js:67 👥 Пользователи в комнате: Array(2)
-client.js:105 ⚠️ Соединение с Vladimir уже стабильно, пропускаем
-client.js:81 ➖ Вышел: Vladimir
-client.js:93 🗑️ Уничтожение соединения с Vladimir
-client.js:76 ➕ Присоединился: Vladimir
-client.js:112 🔨 Создаем НОВОЕ соединение с Vladimir | Я старший: true
-client.js:122 ➕ Трек audio добавлен при создании
-client.js:177 🔔 Сработал onnegotiationneeded для Vladimir
-client.js:184 🔄 Начало переговоров с Vladimir
-client.js:248 📩 Получен Answer от Vladimir
-client.js:164 🎥 ПОЛУЧЕН ПОТОК от Vladimir!
-client.js:167   - Тип: audio | Enabled: true | Muted: true
-client.js:141 📦 ICE кандидат: relay (201.7.17.108)
-client.js:172 ✅ Воспроизведение запущено для Vladimir
-client.js:202 🔄 Создаю Offer для Vladimir (старший)
-client.js:248 📩 Получен Answer от Vladimir
-client.js:127 🌐 [ICE] Vladimir: checking
-client.js:127 🌐 [ICE] Vladimir: connected
-client.js:57 ✅ Подключено к серверу
-client.js:67 👥 Пользователи в комнате: (2) ['Vladimir', 'Volodya']
-client.js:105 ⚠️ Соединение с Vladimir уже стабильно, пропускаем
-client.js:221 📩 Получен Offer от Vladimir
-client.js:105 ⚠️ Соединение с Vladimir уже стабильно, пропускаем
-client.js:236 ✅ Answer отправлен
-client.js:141 📦 ICE кандидат: relay (201.7.17.108)
-client.js:127 🌐 [ICE] Vladimir: disconnected
-client.js:129 ⚠️ Соединение с Vladimir упало. Сброс...
-client.js:93 🗑️ Уничтожение соединения с Vladimir
-client.js:76 ➕ Присоединился: Vladimir
-client.js:112 🔨 Создаем НОВОЕ соединение с Vladimir | Я старший: true
-client.js:122 ➕ Трек audio добавлен при создании
-client.js:177 🔔 Сработал onnegotiationneeded для Vladimir
-client.js:184 🔄 Начало переговоров с Vladimir
-client.js:221 📩 Получен Offer от Vladimir
-client.js:225 🔄 Сброс нестабильного соединения перед Offer
-client.js:93 🗑️ Уничтожение соединения с Vladimir
-client.js:112 🔨 Создаем НОВОЕ соединение с Vladimir | Я старший: false
-client.js:122 ➕ Трек audio добавлен при создании
-client.js:164 🎥 ПОЛУЧЕН ПОТОК от Vladimir!
-client.js:167   - Тип: audio | Enabled: true | Muted: true
-client.js:236 ✅ Answer отправлен
-client.js:256 ⚠️ Игнорирован Answer. Состояние: stable
-client.js:172 ✅ Воспроизведение запущено для Vladimir
-client.js:141 📦 ICE кандидат: relay (201.7.17.108)
-client.js:221 📩 Получен Offer от Vladimir
-client.js:105 ⚠️ Соединение с Vladimir уже стабильно, пропускаем
-client.js:127 🌐 [ICE] Vladimir: checking
-client.js:236 ✅ Answer отправлен
-client.js:141 📦 ICE кандидат: relay (201.7.17.108)
-client.js:276 🔇 Выключение микрофона
-client.js:177 🔔 Сработал onnegotiationneeded для Vladimir
-client.js:184 🔄 Начало переговоров с Vladimir
-client.js:294 🎤 Запрос микрофона...
-client.js:298 ✅ Микрофон получен
-client.js:304 🔄 Пересоздание соединений с новым аудио-треком...
-client.js:93 🗑️ Уничтожение соединения с Vladimir
-client.js:112 🔨 Создаем НОВОЕ соединение с Vladimir | Я старший: true
-client.js:122 ➕ Трек audio добавлен при создании
-client.js:177 🔔 Сработал onnegotiationneeded для Vladimir
-client.js:184 🔄 Начало переговоров с Vladimir
-client.js:141 📦 ICE кандидат: relay (201.7.17.108)
-client.js:57 ✅ Подключено к серверу
-client.js:67 👥 Пользователи в комнате: (2) ['Vladimir', 'Volodya']
-client.js:93 🗑️ Уничтожение соединения с Vladimir
-client.js:112 🔨 Создаем НОВОЕ соединение с Vladimir | Я старший: true
-client.js:122 ➕ Трек audio добавлен при создании
-client.js:177 🔔 Сработал onnegotiationneeded для Vladimir
-client.js:184 🔄 Начало переговоров с Vladimir
-client.js:221 📩 Получен Offer от Vladimir
-client.js:225 🔄 Сброс нестабильного соединения перед Offer
-client.js:93 🗑️ Уничтожение соединения с Vladimir
-client.js:112 🔨 Создаем НОВОЕ соединение с Vladimir | Я старший: false
-client.js:122 ➕ Трек audio добавлен при создании
-client.js:164 🎥 ПОЛУЧЕН ПОТОК от Vladimir!
-client.js:167   - Тип: audio | Enabled: true | Muted: true
-client.js:236 ✅ Answer отправлен
-client.js:172 ✅ Воспроизведение запущено для Vladimir
-client.js:141 📦 ICE кандидат: relay (201.7.17.108)
-client.js:76 ➕ Присоединился: Vladimir
-client.js:105 ⚠️ Соединение с Vladimir уже стабильно, пропускаем
-client.js:221 📩 Получен Offer от Vladimir
-client.js:105 ⚠️ Соединение с Vladimir уже стабильно, пропускаем
-client.js:236 ✅ Answer отправлен
-client.js:141 📦 ICE кандидат: relay (201.7.17.108)
-client.js:57 ✅ Подключено к серверу
-client.js:67 👥 Пользователи в комнате: (2) ['Vladimir', 'Volodya']
-client.js:105 ⚠️ Соединение с Vladimir уже стабильно, пропускаем
-client.js:221 📩 Получен Offer от Vladimir
-client.js:105 ⚠️ Соединение с Vladimir уже стабильно, пропускаем
-client.js:236 ✅ Answer отправлен
-client.js:141 📦 ICE кандидат: relay (201.7.17.108)
-client.js:76 ➕ Присоединился: Vladimir
-client.js:105 ⚠️ Соединение с Vladimir уже стабильно, пропускаем
-
-
-> my-discord-app@1.0.0 start
-> electron .
-
-
-🔐 Запрос разрешения: media
-[17736:1009/195017.545:ERROR:third_party\webrtc\pc\sdp_offer_answer.cc:4385] The order of m-lines in answer doesn't match order in offer. Rejecting answer. (INVALID_PARAMETER)
-[17736:1009/195017.545:ERROR:third_party\webrtc\pc\sdp_offer_answer.cc:1342] Failed to set remote answer sdp: The order of m-lines in answer doesn't match order in offer. Rejecting answer.
-🔐 Запрос разрешения: media
+client.js:60 ✅ Подключено к серверу
+client.js:75 👥 Пользователи в комнате: Array(1)
+client.js:304 🎤 Запрос микрофона...
+client.js:317 ✅ Микрофон получен и локальный кодер запущен
+client.js:323 🔄 Атомарное пересоздание соединений с новым аудио-треком...
+client.js:86 ➕ Присоединился: Vladimir
+client.js:120 🔨 Создаем НОВОЕ соединение с Vladimir | Я старший: true
+client.js:130 ➕ Трек audio добавлен при создании
+client.js:184 🔔 Сработал onnegotiationneeded для Vladimir
+client.js:191 🔄 Начало переговоров с Vladimir
+client.js:148 📦 ICE кандидат: relay (201.7.17.108)
+client.js:259 📩 Получен Answer от Vladimir
+client.js:228 📩 Получен Offer от Vladimir
+client.js:114 ⚠️ Соединение с Vladimir уже стабильно, пропускаем
+client.js:171 🎥 ПОЛУЧЕН ПОТОК от Vladimir!
+client.js:174   - Тип: audio | Enabled: true | Muted: true
+client.js:247 ✅ Answer отправлен
+client.js:179 ✅ Воспроизведение запущено для Vladimir
+client.js:148 📦 ICE кандидат: relay (201.7.17.108)
+client.js:70 ⚠️ Отключено от сервера. Перезапустите приложение для надежности.
