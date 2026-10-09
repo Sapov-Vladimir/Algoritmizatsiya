@@ -1,120 +1,14 @@
-> my-discord-app@1.0.0 start
-> electron .
-
-Downloading Electron binary...
-
- Разрешение: media -> разрешено
- Разрешение: media -> разрешено
-[15152:1009/144202.997:ERROR:third_party\webrtc\p2p\dtls\dtls_transport.cc:851] DtlsTransport[0|1|__]: OnWritableState() called in state DtlsTransportState::kClosed.
- Разрешение: media -> разрешено
- Разрешение: media -> разрешено
- Разрешение: media -> разрешено
-[15152:1009/144642.936:ERROR:third_party\webrtc\p2p\dtls\dtls_transport.cc:851] DtlsTransport[0|1|__]: OnWritableState() called in state DtlsTransportState::kClosed.
- Разрешение: media -> разрешено
-[15152:1009/145000.496:ERROR:third_party\webrtc\p2p\dtls\dtls_transport.cc:851] DtlsTransport[0|1|__]: OnWritableState() called in state DtlsTransportState::kClosed.
- Разрешение: media -> разрешено
-[15152:1009/145314.995:ERROR:third_party\webrtc\p2p\dtls\dtls_transport.cc:851] DtlsTransport[0|1|__]: OnWritableState() called in state DtlsTransportState::kClosed.
-
-
-client.js:41 ✅ Подключено к серверу
-client.js:51 👥 Пользователи в комнате: ['Volodya']
-client.js:262 🎤 Запрос микрофона...
-client.js:266 ✅ Микрофон получен
-client.js:60 ➕ Присоединился: Vladimir
-client.js:95 🔨 Создаем НОВОЕ соединение с Vladimir
-client.js:152 🔔 Сработал onnegotiationneeded для Vladimir
-client.js:181 🔄 Начало переговоров с Vladimir
-client.js:232 📩 Получен Answer от Vladimir
-client.js:145 🎥 ПОЛУЧЕН ПОТОК от Vladimir!
-client.js:181 🔄 Начало переговоров с Vladimir
-client.js:232 📩 Получен Answer от Vladimir
-client.js:262 🎤 Запрос микрофона...
-client.js:266 ✅ Микрофон получен
-client.js:278 ➕ Трек добавлен в существующее соединение
-client.js:152 🔔 Сработал onnegotiationneeded для Vladimir
-client.js:181 🔄 Начало переговоров с Vladimir
-client.js:232 📩 Получен Answer от Vladimir
-client.js:108 🌐 [ICE] Vladimir: checking
-client.js:108 🌐 [ICE] Vladimir: connected
-client.js:108 🌐 [ICE] Vladimir: disconnected
-client.js:110 ⚠️ Соединение с Vladimir упало. Сброс...
-client.js:41 ✅ Подключено к серверу
-client.js:51 👥 Пользователи в комнате: (2) ['Vladimir', 'Volodya']
-client.js:88 ⚠️ Соединение с Vladimir уже стабильно, пропускаем
-client.js:262 🎤 Запрос микрофона...
-client.js:266 ✅ Микрофон получен
-client.js:278 ➕ Трек добавлен в существующее соединение
-client.js:152 🔔 Сработал onnegotiationneeded для Vladimir
-client.js:181 🔄 Начало переговоров с Vladimir
-client.js:232 📩 Получен Answer от Vladimir
-client.js:145 🎥 ПОЛУЧЕН ПОТОК от Vladimir!
-client.js:108 🌐 [ICE] Vladimir: connected
-client.js:108 🌐 [ICE] Vladimir: disconnected
-client.js:110 ⚠️ Соединение с Vladimir упало. Сброс...
-client.js:60 ➕ Присоединился: Vladimir
-client.js:88 ⚠️ Соединение с Vladimir уже стабильно, пропускаем
-client.js:262 🎤 Запрос микрофона...
-client.js:266 ✅ Микрофон получен
-client.js:278 ➕ Трек добавлен в существующее соединение
-client.js:152 🔔 Сработал onnegotiationneeded для Vladimir
-client.js:181 🔄 Начало переговоров с Vladimir
-client.js:262 🎤 Запрос микрофона...
-client.js:266 ✅ Микрофон получен
-client.js:41 ✅ Подключено к серверу
-client.js:51 👥 Пользователи в комнате: (2) ['Vladimir', 'Volodya']
-client.js:77 🗑️ Уничтожение соединения с Vladimir
-client.js:95 🔨 Создаем НОВОЕ соединение с Vladimir
-client.js:152 🔔 Сработал onnegotiationneeded для Vladimir
-client.js:181 🔄 Начало переговоров с Vladimir
-client.js:232 📩 Получен Answer от Vladimir
-client.js:145 🎥 ПОЛУЧЕН ПОТОК от Vladimir!
-client.js:181 🔄 Начало переговоров с Vladimir
-client.js:232 📩 Получен Answer от Vladimir
-client.js:108 🌐 [ICE] Vladimir: checking
-client.js:108 🌐 [ICE] Vladimir: connected
-client.js:41 ✅ Подключено к серверу
-client.js:108 🌐 [ICE] Vladimir: disconnected
-client.js:110 ⚠️ Соединение с Vladimir упало. Сброс...
-client.js:51 👥 Пользователи в комнате: (2) ['Vladimir', 'Volodya']
-client.js:88 ⚠️ Соединение с Vladimir уже стабильно, пропускаем
-client.js:262 🎤 Запрос микрофона...
-client.js:266 ✅ Микрофон получен
-client.js:278 ➕ Трек добавлен в существующее соединение
-client.js:152 🔔 Сработал onnegotiationneeded для Vladimir
-client.js:181 🔄 Начало переговоров с Vladimir
-client.js:232 📩 Получен Answer от Vladimir
-client.js:145 🎥 ПОЛУЧЕН ПОТОК от Vladimir!
-client.js:108 🌐 [ICE] Vladimir: connected
-client.js:41 ✅ Подключено к серверу
-client.js:51 👥 Пользователи в комнате: (2) ['Vladimir', 'Volodya']
-client.js:88 ⚠️ Соединение с Vladimir уже стабильно, пропускаем
-client.js:108 🌐 [ICE] Vladimir: disconnected
-client.js:110 ⚠️ Соединение с Vladimir упало. Сброс...
-client.js:262 🎤 Запрос микрофона...
-client.js:266 ✅ Микрофон получен
-client.js:278 ➕ Трек добавлен в существующее соединение
-client.js:152 🔔 Сработал onnegotiationneeded для Vladimir
-client.js:181 🔄 Начало переговоров с Vladimir
-client.js:232 📩 Получен Answer от Vladimir
-client.js:145 🎥 ПОЛУЧЕН ПОТОК от Vladimir!
-client.js:108 🌐 [ICE] Vladimir: connected
-client.js:41 ✅ Подключено к серверу
-client.js:51 👥 Пользователи в комнате: (2) ['Vladimir', 'Volodya']
-client.js:88 ⚠️ Соединение с Vladimir уже стабильно, пропускаем
-client.js:108 🌐 [ICE] Vladimir: disconnected
-client.js:110 ⚠️ Соединение с Vladimir упало. Сброс...
-client.js:41 ✅ Подключено к серверу
-client.js:51 👥 Пользователи в комнате: (2) ['Vladimir', 'Volodya']
-client.js:88 ⚠️ Соединение с Vladimir уже стабильно, пропускаем
-client.js:41 ✅ Подключено к серверу
-client.js:51 👥 Пользователи в комнате: (2) ['Vladimir', 'Volodya']
-client.js:88 ⚠️ Соединение с Vladimir уже стабильно, пропускаем
-client.js:41 ✅ Подключено к серверу
-client.js:51 👥 Пользователи в комнате: (2) ['Vladimir', 'Volodya']
-client.js:88 ⚠️ Соединение с Vladimir уже стабильно, пропускаем
-client.js:41 ✅ Подключено к серверу
-client.js:51 👥 Пользователи в комнате: (2) ['Vladimir', 'Volodya']
-client.js:88 ⚠️ Соединение с Vladimir уже стабильно, пропускаем
-client.js:41 ✅ Подключено к серверу
-client.js:51 👥 Пользователи в комнате: (2) ['Vladimir', 'Volodya']
-client.js:88 ⚠️ Соединение с Vladimir уже стабильно, пропускаем
+client.js:37 ✅ Подключено к серверу
+client.js:307 🎤 Автоматический запрос микрофона...
+client.js:48 👥 Пользователи в комнате: Array(2)
+client.js:311 ✅ Микрофон получен автоматически
+client.js:214 🔨 Создаем соединение с Vladimir
+client.js:221 ➕ Добавлен трек audio в соединение с Vladimir
+client.js:245 🔄 Создаю Offer для Vladimir
+client.js:290 📩 Получен Answer от Vladimir
+client.js:147 🎥 ПОЛУЧЕН ПОТОК от Vladimir!
+client.js:148 📊 Треков в потоке: 1
+client.js:150   - Тип: audio, ID: eadfdb21-a4c1-41c1-833a-171326d46020, Enabled: true
+client.js:179 📦 ICE кандидат для Vladimir: relay (201.7.17.108)
+client.js:161 ✅ Воспроизведение запущено для Vladimir
+client.js:122 🎨 Визуализатор создан для Vladimir
