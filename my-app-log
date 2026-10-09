@@ -1,16 +1,11 @@
-client.js:51 ✅ Подключено к серверу
-client.js:327  Автоматический запрос микрофона...
-client.js:62 👥 Пользователи в комнате: Array(1)
-client.js:331 ✅ Микрофон получен автоматически
-client.js:68 ➕ Присоединился: Vladimir
-client.js:234  Создаем соединение с Vladimir
-client.js:241 ➕ Добавлен трек audio в соединение с Vladimir
-client.js:265 🔄 Создаю Offer для Vladimir
-client.js:310 📩 Получен Answer от Vladimir
-client.js:175  ПОЛУЧЕН ПОТОК от Vladimir!
-client.js:176 📊 Треков в потоке: 1
-client.js:178   - Тип: audio, ID: ec8b0893-8338-4547-b629-d5f98b6d934c, Enabled: true
-client.js:204 📦 ICE кандидат для Vladimir: relay (201.7.17.108)
-client.js:188 ✅ Воспроизведение запущено для Vladimir
-client.js:113 🎨 Визуализатор создан для Vladimir
-client.js:146 ✅ Web Audio API инициализирован для Vladimir
+client.js:50 ✅ Подключено к серверу
+client.js:319 🎤 Запрос микрофона...
+client.js:62  Пользователи в комнате: Array(1)
+client.js:323 ✅ Микрофон получен
+client.js:70 ➕ Присоединился: Vladimir
+client.js:103 🔨 Создаем соединение с Vladimir
+client.js:110 ➕ Transceiver audio добавлен
+client.js:116 ➕ Трек audio добавлен
+client.js:212 🔄 Создаю Offer для Vladimir
+client.js:299 📩 Answer от Vladimir
+client.js:175 📦 ICE: relay (201.7.17.108)
