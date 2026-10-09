@@ -1,11 +1,67 @@
-client.js:50 ✅ Подключено к серверу
-client.js:319 🎤 Запрос микрофона...
-client.js:62  Пользователи в комнате: Array(1)
-client.js:323 ✅ Микрофон получен
+client.js:49 ✅ Подключено к серверу
+client.js:325 🎤 Запрос микрофона...
+client.js:62 👥 Пользователи в комнате: Array(1)
+client.js:329 ✅ Микрофон получен
 client.js:70 ➕ Присоединился: Vladimir
 client.js:103 🔨 Создаем соединение с Vladimir
-client.js:110 ➕ Transceiver audio добавлен
-client.js:116 ➕ Трек audio добавлен
-client.js:212 🔄 Создаю Offer для Vladimir
-client.js:299 📩 Answer от Vladimir
-client.js:175 📦 ICE: relay (201.7.17.108)
+client.js:112 ➕ Аудиотрек добавлен в PC ДО offer
+client.js:208 🔄 Создаю Offer для Vladimir
+client.js:212 📄 SDP Offer:
+client.js:213 v=0
+o=- 7243260436726055720 2 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=extmap-allow-mixed
+a=msid-semantic: WMS f5908589-44e5-49d2-8c67-a08d0861c94d
+m=audio 9 UDP/TLS/RTP/SAVPF 111 63 9 0 8 13 110 126
+c=IN IP4 0.0.0.0
+a=rtcp:9 IN IP4 0.0.0.0
+a=ice-ufrag:227q
+a=ice-pwd:awdIetiMndNkOyvYyIt56hqf
+a=ice-options:trickle
+a=fingerprint:sha-256 AB:63:F4:B8:56:23:C3:AF:CF:B1:6C:93:4F:3C:5C:82:5B:48:59:47:CF:07:D3:FA:D0:E1:E7:D8:AA:EA:9C:38
+a=setup:actpass
+a=mid:0
+a=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level
+a=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time
+a=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01
+a=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid
+a=sendrecv
+a=msid:f5908589-44e5-49d2-8c67-a08d0861c94d aa12a93c-25bc-4e28-ba7c-35cb82a972c2
+a=rtcp-mux
+a=rtcp-rsize
+a=rtcp-xr:rcvr-rtt=all
+a=rtcp-fb:111 rrtr
+a=rtcp-fb:63 rrtr
+a=rtcp-fb:9 rrtr
+a=rtcp-fb:0 rrtr
+a=rtcp-fb:8 rrtr
+a=rtcp-fb:13 rrtr
+a=rtcp-fb:110 rrtr
+a=rtcp-fb:126 rrtr
+a=rtpmap:111 opus/48000/2
+a=rtcp-fb:111 transport-cc
+a=fmtp:111 minptime=10;useinbandfec=1
+a=rtpmap:63 red/48000/2
+a=fmtp:63 111/111
+a=rtpmap:9 G722/8000
+a=rtpmap:0 PCMU/8000
+a=rtpmap:8 PCMA/8000
+a=rtpmap:13 CN/8000
+a=rtpmap:110 telephone-event/48000
+a=rtpmap:126 telephone-event/8000
+a=ssrc:3187973344 cname:nSPbSwSvOeO/eVQQ
+a=ssrc:3187973344 msid:f5908589-44e5-49d2-8c67-a08d0861c94d aa12a93c-25bc-4e28-ba7c-35cb82a972c2
+
+client.js:171 📦 ICE: host (26.165.199.175)
+client.js:171 📦 ICE: host (192.168.0.105)
+client.js:171 📦 ICE: host ([fdfd::1aa5:c7af])
+client.js:171 📦 ICE: host (26.165.199.175)
+client.js:171 📦 ICE: host (192.168.0.105)
+client.js:171 📦 ICE: host ([fdfd::1aa5:c7af])
+client.js:305 📩 Answer от Vladimir
+client.js:151  ПОЛУЧЕН ПОТОК от Vladimir!
+client.js:154   - audio: enabled=true muted=true readyState=live
+client.js:171 📦 ICE: relay (201.7.17.108)
+client.js:162 ✅ Автовоспроизведение для Vladimir
