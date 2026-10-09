@@ -14,3 +14,107 @@ Downloading Electron binary...
 [15152:1009/145000.496:ERROR:third_party\webrtc\p2p\dtls\dtls_transport.cc:851] DtlsTransport[0|1|__]: OnWritableState() called in state DtlsTransportState::kClosed.
  Разрешение: media -> разрешено
 [15152:1009/145314.995:ERROR:third_party\webrtc\p2p\dtls\dtls_transport.cc:851] DtlsTransport[0|1|__]: OnWritableState() called in state DtlsTransportState::kClosed.
+
+
+client.js:41 ✅ Подключено к серверу
+client.js:51 👥 Пользователи в комнате: ['Volodya']
+client.js:262 🎤 Запрос микрофона...
+client.js:266 ✅ Микрофон получен
+client.js:60 ➕ Присоединился: Vladimir
+client.js:95 🔨 Создаем НОВОЕ соединение с Vladimir
+client.js:152 🔔 Сработал onnegotiationneeded для Vladimir
+client.js:181 🔄 Начало переговоров с Vladimir
+client.js:232 📩 Получен Answer от Vladimir
+client.js:145 🎥 ПОЛУЧЕН ПОТОК от Vladimir!
+client.js:181 🔄 Начало переговоров с Vladimir
+client.js:232 📩 Получен Answer от Vladimir
+client.js:262 🎤 Запрос микрофона...
+client.js:266 ✅ Микрофон получен
+client.js:278 ➕ Трек добавлен в существующее соединение
+client.js:152 🔔 Сработал onnegotiationneeded для Vladimir
+client.js:181 🔄 Начало переговоров с Vladimir
+client.js:232 📩 Получен Answer от Vladimir
+client.js:108 🌐 [ICE] Vladimir: checking
+client.js:108 🌐 [ICE] Vladimir: connected
+client.js:108 🌐 [ICE] Vladimir: disconnected
+client.js:110 ⚠️ Соединение с Vladimir упало. Сброс...
+client.js:41 ✅ Подключено к серверу
+client.js:51 👥 Пользователи в комнате: (2) ['Vladimir', 'Volodya']
+client.js:88 ⚠️ Соединение с Vladimir уже стабильно, пропускаем
+client.js:262 🎤 Запрос микрофона...
+client.js:266 ✅ Микрофон получен
+client.js:278 ➕ Трек добавлен в существующее соединение
+client.js:152 🔔 Сработал onnegotiationneeded для Vladimir
+client.js:181 🔄 Начало переговоров с Vladimir
+client.js:232 📩 Получен Answer от Vladimir
+client.js:145 🎥 ПОЛУЧЕН ПОТОК от Vladimir!
+client.js:108 🌐 [ICE] Vladimir: connected
+client.js:108 🌐 [ICE] Vladimir: disconnected
+client.js:110 ⚠️ Соединение с Vladimir упало. Сброс...
+client.js:60 ➕ Присоединился: Vladimir
+client.js:88 ⚠️ Соединение с Vladimir уже стабильно, пропускаем
+client.js:262 🎤 Запрос микрофона...
+client.js:266 ✅ Микрофон получен
+client.js:278 ➕ Трек добавлен в существующее соединение
+client.js:152 🔔 Сработал onnegotiationneeded для Vladimir
+client.js:181 🔄 Начало переговоров с Vladimir
+client.js:262 🎤 Запрос микрофона...
+client.js:266 ✅ Микрофон получен
+client.js:41 ✅ Подключено к серверу
+client.js:51 👥 Пользователи в комнате: (2) ['Vladimir', 'Volodya']
+client.js:77 🗑️ Уничтожение соединения с Vladimir
+client.js:95 🔨 Создаем НОВОЕ соединение с Vladimir
+client.js:152 🔔 Сработал onnegotiationneeded для Vladimir
+client.js:181 🔄 Начало переговоров с Vladimir
+client.js:232 📩 Получен Answer от Vladimir
+client.js:145 🎥 ПОЛУЧЕН ПОТОК от Vladimir!
+client.js:181 🔄 Начало переговоров с Vladimir
+client.js:232 📩 Получен Answer от Vladimir
+client.js:108 🌐 [ICE] Vladimir: checking
+client.js:108 🌐 [ICE] Vladimir: connected
+client.js:41 ✅ Подключено к серверу
+client.js:108 🌐 [ICE] Vladimir: disconnected
+client.js:110 ⚠️ Соединение с Vladimir упало. Сброс...
+client.js:51 👥 Пользователи в комнате: (2) ['Vladimir', 'Volodya']
+client.js:88 ⚠️ Соединение с Vladimir уже стабильно, пропускаем
+client.js:262 🎤 Запрос микрофона...
+client.js:266 ✅ Микрофон получен
+client.js:278 ➕ Трек добавлен в существующее соединение
+client.js:152 🔔 Сработал onnegotiationneeded для Vladimir
+client.js:181 🔄 Начало переговоров с Vladimir
+client.js:232 📩 Получен Answer от Vladimir
+client.js:145 🎥 ПОЛУЧЕН ПОТОК от Vladimir!
+client.js:108 🌐 [ICE] Vladimir: connected
+client.js:41 ✅ Подключено к серверу
+client.js:51 👥 Пользователи в комнате: (2) ['Vladimir', 'Volodya']
+client.js:88 ⚠️ Соединение с Vladimir уже стабильно, пропускаем
+client.js:108 🌐 [ICE] Vladimir: disconnected
+client.js:110 ⚠️ Соединение с Vladimir упало. Сброс...
+client.js:262 🎤 Запрос микрофона...
+client.js:266 ✅ Микрофон получен
+client.js:278 ➕ Трек добавлен в существующее соединение
+client.js:152 🔔 Сработал onnegotiationneeded для Vladimir
+client.js:181 🔄 Начало переговоров с Vladimir
+client.js:232 📩 Получен Answer от Vladimir
+client.js:145 🎥 ПОЛУЧЕН ПОТОК от Vladimir!
+client.js:108 🌐 [ICE] Vladimir: connected
+client.js:41 ✅ Подключено к серверу
+client.js:51 👥 Пользователи в комнате: (2) ['Vladimir', 'Volodya']
+client.js:88 ⚠️ Соединение с Vladimir уже стабильно, пропускаем
+client.js:108 🌐 [ICE] Vladimir: disconnected
+client.js:110 ⚠️ Соединение с Vladimir упало. Сброс...
+client.js:41 ✅ Подключено к серверу
+client.js:51 👥 Пользователи в комнате: (2) ['Vladimir', 'Volodya']
+client.js:88 ⚠️ Соединение с Vladimir уже стабильно, пропускаем
+client.js:41 ✅ Подключено к серверу
+client.js:51 👥 Пользователи в комнате: (2) ['Vladimir', 'Volodya']
+client.js:88 ⚠️ Соединение с Vladimir уже стабильно, пропускаем
+client.js:41 ✅ Подключено к серверу
+client.js:51 👥 Пользователи в комнате: (2) ['Vladimir', 'Volodya']
+client.js:88 ⚠️ Соединение с Vladimir уже стабильно, пропускаем
+client.js:41 ✅ Подключено к серверу
+client.js:51 👥 Пользователи в комнате: (2) ['Vladimir', 'Volodya']
+client.js:88 ⚠️ Соединение с Vladimir уже стабильно, пропускаем
+client.js:41 ✅ Подключено к серверу
+client.js:51 👥 Пользователи в комнате: (2) ['Vladimir', 'Volodya']
+client.js:88 ⚠️ Соединение с Vladimir уже стабильно, пропускаем
