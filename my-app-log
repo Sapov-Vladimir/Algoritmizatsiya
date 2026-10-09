@@ -1,0 +1,16 @@
+> my-discord-app@1.0.0 start
+> electron .
+
+Downloading Electron binary...
+
+ Разрешение: media -> разрешено
+ Разрешение: media -> разрешено
+[15152:1009/144202.997:ERROR:third_party\webrtc\p2p\dtls\dtls_transport.cc:851] DtlsTransport[0|1|__]: OnWritableState() called in state DtlsTransportState::kClosed.
+ Разрешение: media -> разрешено
+ Разрешение: media -> разрешено
+ Разрешение: media -> разрешено
+[15152:1009/144642.936:ERROR:third_party\webrtc\p2p\dtls\dtls_transport.cc:851] DtlsTransport[0|1|__]: OnWritableState() called in state DtlsTransportState::kClosed.
+ Разрешение: media -> разрешено
+[15152:1009/145000.496:ERROR:third_party\webrtc\p2p\dtls\dtls_transport.cc:851] DtlsTransport[0|1|__]: OnWritableState() called in state DtlsTransportState::kClosed.
+ Разрешение: media -> разрешено
+[15152:1009/145314.995:ERROR:third_party\webrtc\p2p\dtls\dtls_transport.cc:851] DtlsTransport[0|1|__]: OnWritableState() called in state DtlsTransportState::kClosed.
