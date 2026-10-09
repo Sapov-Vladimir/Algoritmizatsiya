@@ -1,19 +1,56 @@
-client.js:50 ✅ Микрофон успешно получен ДО подключения к серверу
-client.js:70 ✅ Подключено к серверу
-client.js:84 👥 Пользователи в комнате: Array(1)
-client.js:90 ➕ Присоединился: Vladimir
-client.js:148 🔨 Создаем соединение с Vladimir
-client.js:154 ➕ Добавляем трек в PC. ReadyState: live, Enabled: true
-client.js:237 🔄 Создаю Offer для Vladimir
-client.js:203 📦 ICE: host (26.165.199.175)
-client.js:203 📦 ICE: host (192.168.0.105)
-client.js:203 📦 ICE: host ([fdfd::1aa5:c7af])
-client.js:203 📦 ICE: host (26.165.199.175)
-client.js:203 📦 ICE: host (192.168.0.105)
-client.js:203 📦 ICE: host ([fdfd::1aa5:c7af])
-client.js:339 📩 Answer от Vladimir
-client.js:176 🎥 ПОЛУЧЕН ПОТОК от Vladimir!
-client.js:178   - audio: enabled=true muted=true readyState=live
-client.js:203 📦 ICE: relay (201.7.17.108)
-client.js:194 ✅ Автовоспроизведение успешно
-client.js:79 ⚠️ Отключено от сервера
+client.js:49 ✅ Микрофон получен и локальный кодер запущен
+client.js:63 ✅ Подключено к серверу
+client.js:71 👥 Пользователи в комнате: Array(1)
+client.js:76 ➕ Присоединился: Vladimir
+client.js:102 🔨 Создаем соединение с Vladimir
+client.js:108  Треки добавлены в PC
+client.js:147  Я старший (Volodya > Vladimir), создаю Offer через 500мс
+client.js:151 🔄 Создаю Offer для Vladimir
+client.js:155 ✅ Offer отправлен для Vladimir
+client.js:136 📦 ICE: host (26.165.199.175)
+client.js:136 📦 ICE: host (192.168.0.105)
+client.js:136 📦 ICE: host ([fdfd::1aa5:c7af])
+client.js:136 📦 ICE: srflx (94.141.124.214)
+client.js:136 📦 ICE: host (26.165.199.175)
+client.js:136 📦 ICE: host (192.168.0.105)
+client.js:136 📦 ICE: host ([fdfd::1aa5:c7af])
+client.js:136 📦 ICE: relay (201.7.17.108)
+client.js:230  Answer от Vladimir
+client.js:124  ПОЛУЧЕН ПОТОК от Vladimir
+client.js:126   - audio: enabled=true muted=true
+client.js:235 ✅ Answer установлен
+client.js:63 ✅ Подключено к серверу
+client.js:71 👥 Пользователи в комнате: (2) ['Vladimir', 'Volodya']
+client.js:97 ️ Уничтожаем старое соединение с Vladimir
+client.js:102 🔨 Создаем соединение с Vladimir
+client.js:108  Треки добавлены в PC
+client.js:147  Я старший (Volodya > Vladimir), создаю Offer через 500мс
+client.js:151 🔄 Создаю Offer для Vladimir
+client.js:155 ✅ Offer отправлен для Vladimir
+client.js:136 📦 ICE: host (26.165.199.175)
+client.js:136 📦 ICE: host (192.168.0.105)
+client.js:136 📦 ICE: host ([fdfd::1aa5:c7af])
+client.js:136 📦 ICE: srflx (94.141.124.214)
+client.js:136 📦 ICE: host (26.165.199.175)
+client.js:136 📦 ICE: host (192.168.0.105)
+client.js:136 📦 ICE: host ([fdfd::1aa5:c7af])
+client.js:230  Answer от Vladimir
+client.js:124  ПОЛУЧЕН ПОТОК от Vladimir
+client.js:126   - audio: enabled=true muted=true
+client.js:235 ✅ Answer установлен
+client.js:136 📦 ICE: relay (201.7.17.108)
+client.js:76 ➕ Присоединился: Vladimir
+client.js:97 ️ Уничтожаем старое соединение с Vladimir
+client.js:102 🔨 Создаем соединение с Vladimir
+client.js:108  Треки добавлены в PC
+client.js:147  Я старший (Volodya > Vladimir), создаю Offer через 500мс
+client.js:151 🔄 Создаю Offer для Vladimir
+client.js:155 ✅ Offer отправлен для Vladimir
+client.js:136 📦 ICE: host (26.165.199.175)
+client.js:136 📦 ICE: host (192.168.0.105)
+client.js:136 📦 ICE: host ([fdfd::1aa5:c7af])
+client.js:136 📦 ICE: srflx (94.141.124.214)
+client.js:136 📦 ICE: host (26.165.199.175)
+client.js:136 📦 ICE: host (192.168.0.105)
+client.js:136 📦 ICE: host ([fdfd::1aa5:c7af])
+client.js:136 📦 ICE: relay (201.7.17.108)
