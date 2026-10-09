@@ -2,24 +2,71 @@ client.js:50 ✅ Микрофон успешно получен ДО подкл�
 client.js:65 ✅ Подключено к серверу
 client.js:74 👥 Пользователи в комнате: Array(1)
 client.js:80 ➕ Присоединился: Vladimir
-client.js:119 🔨 Создаем соединение с Vladimir
-client.js:125 ➕ Добавляем трек в PC. ReadyState: live, Enabled: true
-client.js:214 🔄 Создаю Offer для Vladimir
-client.js:167 📦 ICE: host (26.165.199.175)
-client.js:167 📦 ICE: host (192.168.0.105)
-client.js:167 📦 ICE: host ([2001::14c9:d804:1c12:8ad6:a172:8329])
-client.js:167 📦 ICE: host ([fdfd::1aa5:c7af])
-client.js:167 📦 ICE: host (26.165.199.175)
-client.js:167 📦 ICE: host (192.168.0.105)
-client.js:167 📦 ICE: host ([2001::14c9:d804:1c12:8ad6:a172:8329])
-client.js:167 📦 ICE: host ([fdfd::1aa5:c7af])
-client.js:313 📩 Answer от Vladimir
-client.js:147 🎥 ПОЛУЧЕН ПОТОК от Vladimir!
-client.js:149   - audio: enabled=true muted=true readyState=live
-client.js:167 📦 ICE: relay (201.7.17.108)
-client.js:205 ✅ Автовоспроизведение успешно
+client.js:136 🔨 Создаем соединение с Vladimir
+client.js:142 ➕ Добавляем трек в PC. ReadyState: live, Enabled: true
+client.js:224 🔄 Создаю Offer для Vladimir
+client.js:190 📦 ICE: host (26.165.199.175)
+client.js:190 📦 ICE: host (192.168.0.105)
+client.js:190 📦 ICE: host ([fdfd::1aa5:c7af])
+client.js:190 📦 ICE: host (26.165.199.175)
+client.js:190 📦 ICE: host (192.168.0.105)
+client.js:190 📦 ICE: host ([fdfd::1aa5:c7af])
+client.js:327 📩 Answer от Vladimir
+client.js:164 🎥 ПОЛУЧЕН ПОТОК от Vladimir!
+client.js:166   - audio: enabled=true muted=true readyState=live
+client.js:190 📦 ICE: relay (201.7.17.108)
+client.js:181 ✅ Автовоспроизведение успешно
 client.js:65 ✅ Подключено к серверу
 client.js:74 👥 Пользователи в комнате: (2) ['Vladimir', 'Volodya']
-client.js:110 ⚠️ Соединение с Vladimir уже стабильно, игнорируем повторный вызов
+client.js:132 ️ Уничтожаем старое соединение с Vladimir
+client.js:136 🔨 Создаем соединение с Vladimir
+client.js:142 ➕ Добавляем трек в PC. ReadyState: live, Enabled: true
+client.js:224 🔄 Создаю Offer для Vladimir
+client.js:190 📦 ICE: host (26.165.199.175)
+client.js:190 📦 ICE: host (192.168.0.105)
+client.js:190 📦 ICE: host ([fdfd::1aa5:c7af])
+client.js:190 📦 ICE: host (26.165.199.175)
+client.js:190 📦 ICE: host (192.168.0.105)
+client.js:190 📦 ICE: host ([fdfd::1aa5:c7af])
+client.js:190 📦 ICE: relay (201.7.17.108)
+client.js:86 ➖ Вышел: Vladimir
 client.js:80 ➕ Присоединился: Vladimir
-client.js:110 ⚠️ Соединение с Vladimir уже стабильно, игнорируем повторный вызов
+client.js:136 🔨 Создаем соединение с Vladimir
+client.js:142 ➕ Добавляем трек в PC. ReadyState: live, Enabled: true
+client.js:224 🔄 Создаю Offer для Vladimir
+client.js:190 📦 ICE: host (26.165.199.175)
+client.js:190 📦 ICE: host (192.168.0.105)
+client.js:190 📦 ICE: host ([fdfd::1aa5:c7af])
+client.js:190 📦 ICE: host (26.165.199.175)
+client.js:190 📦 ICE: host (192.168.0.105)
+client.js:190 📦 ICE: host ([fdfd::1aa5:c7af])
+client.js:190 📦 ICE: relay (201.7.17.108)
+client.js:65 ✅ Подключено к серверу
+client.js:74 👥 Пользователи в комнате: (2) ['Vladimir', 'Volodya']
+client.js:132 ️ Уничтожаем старое соединение с Vladimir
+client.js:136 🔨 Создаем соединение с Vladimir
+client.js:142 ➕ Добавляем трек в PC. ReadyState: live, Enabled: true
+client.js:224 🔄 Создаю Offer для Vladimir
+client.js:190 📦 ICE: host (26.165.199.175)
+client.js:190 📦 ICE: host (192.168.0.105)
+client.js:190 📦 ICE: host ([fdfd::1aa5:c7af])
+client.js:190 📦 ICE: host (26.165.199.175)
+client.js:190 📦 ICE: host (192.168.0.105)
+client.js:190 📦 ICE: host ([fdfd::1aa5:c7af])
+client.js:190 📦 ICE: relay (201.7.17.108)
+client.js:80 ➕ Присоединился: Vladimir
+client.js:132 ️ Уничтожаем старое соединение с Vladimir
+client.js:136 🔨 Создаем соединение с Vladimir
+client.js:142 ➕ Добавляем трек в PC. ReadyState: live, Enabled: true
+client.js:224 🔄 Создаю Offer для Vladimir
+client.js:190 📦 ICE: host (26.165.199.175)
+client.js:190 📦 ICE: host (192.168.0.105)
+client.js:190 📦 ICE: host ([fdfd::1aa5:c7af])
+client.js:190 📦 ICE: host (26.165.199.175)
+client.js:190 📦 ICE: host (192.168.0.105)
+client.js:190 📦 ICE: host ([fdfd::1aa5:c7af])
+client.js:327 📩 Answer от Vladimir
+client.js:164 🎥 ПОЛУЧЕН ПОТОК от Vladimir!
+client.js:166   - audio: enabled=true muted=true readyState=live
+client.js:190 📦 ICE: relay (201.7.17.108)
+client.js:181 ✅ Автовоспроизведение успешно
