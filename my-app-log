@@ -1,139 +1,684 @@
 60a7a5e21619
 
 
-PS C:\Users\vladi> ipconfig
-
-Настройка протокола IP для Windows
-
-
-Адаптер Ethernet Ethernet:
-
-   Состояние среды. . . . . . . . : Среда передачи недоступна.
-   DNS-суффикс подключения . . . . . : Home
-
-Адаптер беспроводной локальной сети Подключение по локальной сети* 9:
-
-   Состояние среды. . . . . . . . : Среда передачи недоступна.
-   DNS-суффикс подключения . . . . . :
-
-Адаптер беспроводной локальной сети Подключение по локальной сети* 10:
-
-   Состояние среды. . . . . . . . : Среда передачи недоступна.
-   DNS-суффикс подключения . . . . . :
-
-Адаптер беспроводной локальной сети Беспроводная сеть:
-
-   DNS-суффикс подключения . . . . . :
-   Локальный IPv6-адрес канала . . . : fe80::492e:d4d3:5d1e:a7e8%4
-   IPv4-адрес. . . . . . . . . . . . : 192.168.0.105
-   Маска подсети . . . . . . . . . . : 255.255.255.0
-   Основной шлюз. . . . . . . . . : 192.168.0.1
-PS C:\Users\vladi> ping -n 100 201.7.17.108
-
-Обмен пакетами с 201.7.17.108 по с 32 байтами данных:
-Ответ от 201.7.17.108: число байт=32 время=68мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=72мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=74мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=68мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=68мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=69мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=67мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=74мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=71мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=75мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=70мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=69мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=70мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=68мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=67мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=71мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=68мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=73мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=70мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=74мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=68мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=73мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=70мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=67мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=69мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=73мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=67мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=71мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=69мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=69мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=73мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=69мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=68мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=70мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=70мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=72мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=74мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=71мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=67мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=69мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=76мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=70мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=68мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=71мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=70мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=79мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=69мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=67мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=67мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=70мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=68мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=70мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=74мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=69мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=66мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=72мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=70мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=68мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=69мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=69мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=69мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=69мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=68мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=71мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=72мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=71мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=69мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=67мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=70мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=71мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=69мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=70мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=69мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=67мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=76мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=71мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=70мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=70мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=67мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=71мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=68мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=73мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=70мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=69мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=70мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=69мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=71мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=72мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=75мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=77мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=71мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=72мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=68мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=69мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=72мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=71мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=73мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=70мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=70мс TTL=54
-Ответ от 201.7.17.108: число байт=32 время=72мс TTL=54
-
-Статистика Ping для 201.7.17.108:
-    Пакетов: отправлено = 100, получено = 100, потеряно = 0
-    (0% потерь)
-Приблизительное время приема-передачи в мс:
-    Минимальное = 66мсек, Максимальное = 79 мсек, Среднее = 70 мсек
+livekit-client.umd.js:1 signal connecting to wss://rifthub.ru/rtc/v1?access_token=%3Credacted%3E&join_request=CAESlxEfiwgAAAAAAAAK7Vzdbtw2FoaL7aIwYGCbq14eYC8X8vCQ1B-DuYgde1NsG7hxkr1dWeKMtRn9VKLtcR-gL7Av1EdbUDO25CHpJnEWKBYEPID98ZAfz9E5R0N-gPe__Wbv2Z_pIaWH_Ltv__XVv_e-evanb_b-skf_89ve_tfNYiG7Z7_-tnc9Jwf7zTyAKIoxiVnEYx6HlFHOY6Dw_Wv4_owD0viQHJJDPNjv58HBvpoTIAf72VyuVZW1QbZaNTdBVa5lodGqL4ugl1VWqzIXAP_88VzDy665asXRu9cvfzgBAggUGHAIITrYr-bZVVE2kMK7l2eztz-cz968PZudv3h_dgqICBGDFAgkgAwQCSCNDvbz-XZ_ZNjdsKNOtVXWCj2naa_6GU8IITM6GYoYdLKwDKTw95jSmcYnKIGz4x_f7aKJRl_sosjg-LUBIgElV7K9bGoZyGtZqw351IZGhs2dyaJSG3-qsm5VWck5kudXvSzri6wuFjKf471ZpKODM0TcLJ5rr2xByttgcTGs2nWqm2I6PDtQaiDEQBIDQXMhHQoDo5HFDkF1Wd23TaeCPB9TTSBcdbUopVqINuuyqhedaoPLopNrJfq-y4MhkYKVvJaryTwKl0q1Yja7ubk5vJEXncoPm245k-tWdmUla9XPxpVm2UUf9LIuAh3wyTJsuozexbBIWcyKLluo4LJZVbILuirPVDB6cFMWMsjzQK6VrPuyqfuA4GRV_qhThexFVQ6V1Ut11YosV23W90OplYXYPFKZXzf16lb_XuYyuFp02VL8bfmP9g5pbwpxc_OmJcfpMsV3P522t6-Sn16dMfz5Ykigsl7Kru3KWon-MgtoGMEJE9GRoImIUkFORRqJk2PBjgRG4jQSp4k4ORGnVINHRBAUNNZD_KU4OhLHRLw81j_RsWCpoCeCJXoK4YIwwU5FcnK3taZVOihCdWX-YSXvU6G6Wt__3vXlL-PIuhNdft0FnVLzbLXyDcQ3EN9APreBoG8gvoH4BuIbyOc2EOobiG4g12Uh7Q0kjSCNIU0gTQEJASQILAQWAYuBJYCEAhIGSDggiQGJxlJA5IAYAmIEiDGwFDgBjsApcAacAw-BR8Bj4Akg6k8KSHV7QuAphARChJACUv1hgJRDyB7tXGkE78-SWUoedog0hk6tTTiB92epCadWa-28zVwHxGbPQqs5i-zWsd06ceyFwisaccsAc0zgrgn22OjH6JjgCA-6GDB0TIhcE-xbYqndnhOrOUeHObWbM4c5t5uH8OI9mrD96fLYbu14uuiKPTpiT4ljArXnJh9CGRp4aA9liA5zeyh1wepvCSbuSE7K4WrVLmRuMjBYrOR6IfOAsHF0eF-nMWStmqfRiCTQds2iXMmgLOYTy3RjmYxfCQiZmtLJAA62OCFi4dR2_MLAosGUhSMSTy3ZiCcby3jCQ2F4zQZZf1tVUnW3m7soWczxeZvlH6Qqf8l0aw-qppAa3K68mVYWc04JwcVkSbbd-tQd_mk05CNo4i0Nn2DJF_BGPqRJtzSTp4ZfwpuHNBhuaHDiDUZP96Z4GDTcBg3HbGXp0515yMLJJs3SEcEne7LgDznowMHHMuDsyX7scvANx1hAPIQ74_U8vFtgTp6rUnaTSuebkuRjSfLYOhONmZsS5ZMSxacndcR30mCb1DhJakqeHL9dGrptYnTiX3ofhzkm0fNpRxtiESxW2VJHdL2hOX9z_vZ-drjJLD5mVojO9ehHrLfJohAne952Lzp2r1CfNtus7IKbsi6aG92VyfiG-J0DWmqejfQXwV3IPHyl5plNvy9MzDwAstCEzG0wcxvMcgYk1IJZDoaEWzCTQjdpE7P4ipb10HRMt0kTs7hmUnAzmtwMJjf956b73NwtNzfLzb1yc6vcEiG0YZaoUdvx3OKUOTU0Z4bmxNCSDdSGWTKEmjEKLVcVESybZhl0srrYwXcvFCZDeV7BotxdqM7yDxYI2lW5U312ysRNmVgpE5MysVLqUrZy6gEXqR6zsGp4l_YO2-VloZ2WhU5WFtpIWWhwbiGDMnZQxm7K2EoZm5SxI7rUFV36SHSpPbrUEl3q4OUuXv4IL7fzcgsvd_A6MlgPuHmtOaxhk9eRxejyFx_xF-3-osVfdPiLjiahB9y81jahYZPX3ihY6kjl1J3KqTWVUzOVUyslRzslN-9XJ0MWSo4G5RYyKJmDkrkpmZWSmZTMTuloS9zdlri1LXGzLXF7W-KOtsTdbYlb2xI32xJ3tCV0lSk-UqZoL1O0lCk6ypS6Xjb0kZcNtb9sqOVlQ-0vG-4oF-4uF24tF26WC7eXS-gol9BdLqG1XEKzXEJ7uYSOcgnNcrlTQB5VC1SzWPRSHXxx5QPZQMuWbSuGq_ag6UpZq-FUd_C_VkjCT3OiXWW3zZUKCrnKbifLRJ-2zMbPvKmVrFWgbttpQOLPWUuVVVkvJ6skn7ZK3qyaLujbLJ9u5aP1o7tnSX53gv67V53MquDh1McFuGHqcN6VReBcY5OSvZjNsqaSRZnlTSHzw2WpLq8uDstmll3jZnYr89lfC9nKupB1fhsUss-7slVNN4xfyqyQ3Zg1By6NbLiG8RqZ18gmsNfIvEY24l4j8xqZ18i8RuY1Mq-ReY1sRLxG5jUyr5E9uK3yGtk96jUyr5F5jcxrZPdjXiOzQF4j28G9RuY1Mq-ReY3Ma2R_II1suBnzGpnXyCaw18i8RjbiXiPzGpnXyLxG5jUyr5F5jWxEvEbmNTKvkT24rfIa2T3qNTKvkXmNzGtk92NeI7NAXiPbwb1G5jUyr5F5jcxrZH8gjWy4TPEaWda2qzIfSnarlL3UUtn58dsz2CRfUGQqyy-zutb_htOmU1njG_2_xLTPVRvoliTC7SVNla2DSvZ9tpSBjq-gEUXOD_a_2_svZMcg9DBgAAA%3D {room: undefined, roomID: undefined, participant: undefined, participantID: undefined, reconnect: undefined, …}
+livekit-client.umd.js:1 signal connected {room: undefined, roomID: undefined, participant: undefined, participantID: undefined}
+livekit-client.umd.js:1 connected to Livekit Server edition: 0, version: 1.13.9, protocol: 17, region: , nodeId: ND_VQHFwp7boRnL, debugInfo: , agentProtocol: 1 {room: 'main', roomID: 'RM_Bgd9zhy7pH83', participant: 'Volodya-1c44ca', participantID: 'PA_J5ymPLUJ3927'}
+livekit-client.umd.js:1 connection state changed: connecting -> connected {room: 'main', roomID: 'RM_Bgd9zhy7pH83', participant: 'Volodya-1c44ca', participantID: 'PA_J5ymPLUJ3927'}
+livekit-client.umd.js:1 publishing track {room: 'main', roomID: 'RM_Bgd9zhy7pH83', participant: 'Volodya-1c44ca', participantID: 'PA_J5ymPLUJ3927', trackID: undefined, …}
+livekit-client.umd.js:1 error reading from signal stream {room: 'main', roomID: 'RM_Bgd9zhy7pH83', participant: 'Volodya-a5e346', participantID: 'PA_yavffAij6WfE', error: ConnectionError: WS closed unexpectedly with code 1006
+    at Xs.websocket (file:///C:/RiftHub/node…}
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+c @ livekit-client.umd.js:1
+renderer.js:99 negotiation disconnected {room: 'main', roomID: 'RM_Bgd9zhy7pH83', participant: 'Volodya-1c44ca', participantID: 'PA_J5ymPLUJ3927'}
+(anonymous) @ livekit-client.umd.js:1
+Ol.handleDisconnect @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+c @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+Ls @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+negotiate @ livekit-client.umd.js:1
+client.onMediaSectionsRequirement @ livekit-client.umd.js:1
+handleSignalResponse @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+startReadingLoop @ livekit-client.umd.js:1
+handleSignalConnected @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+connect @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+join @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+join @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+connectSignal @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+attemptConnection @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+a @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+Mo @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+connect @ livekit-client.umd.js:1
+connectToRoom @ renderer.js:99
+els.joinBtn.onclick @ renderer.js:51
+renderer.js:99 NegotiationError: negotiation timed out
+    at livekit-client.umd.js:1:290881 {room: 'main', roomID: 'RM_Bgd9zhy7pH83', participant: 'Volodya-1c44ca', participantID: 'PA_J5ymPLUJ3927'}
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+Promise.catch
+client.onMediaSectionsRequirement @ livekit-client.umd.js:1
+handleSignalResponse @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+startReadingLoop @ livekit-client.umd.js:1
+handleSignalConnected @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+connect @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+join @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+join @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+connectSignal @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+attemptConnection @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+a @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+Mo @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+connect @ livekit-client.umd.js:1
+connectToRoom @ renderer.js:99
+els.joinBtn.onclick @ renderer.js:51
+livekit-client.umd.js:1 reconnecting, attempt: 0 {room: 'main', roomID: 'RM_Bgd9zhy7pH83', participant: 'Volodya-1c44ca', participantID: 'PA_J5ymPLUJ3927'}
+livekit-client.umd.js:1 connection state changed: connected -> reconnecting {room: 'main', roomID: 'RM_Bgd9zhy7pH83', participant: 'Volodya-1c44ca', participantID: 'PA_J5ymPLUJ3927'}
+renderer.js:56 ConnectionError: publication of local track timed out, no response from server
+    at Xs.timeout (livekit-client.umd.js:1:153410)
+    at livekit-client.umd.js:1:350279
+els.joinBtn.onclick @ renderer.js:56
+livekit-client.umd.js:1 disconnect from room {room: 'main', roomID: 'RM_Bgd9zhy7pH83', participant: 'Volodya-1c44ca', participantID: 'PA_J5ymPLUJ3927'}
+renderer.js:59 Abort connection attempt due to user initiated disconnect {room: 'main', roomID: 'RM_Bgd9zhy7pH83', participant: 'Volodya-1c44ca', participantID: 'PA_J5ymPLUJ3927'}
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+disconnect @ livekit-client.umd.js:1
+els.joinBtn.onclick @ renderer.js:59
+renderer.js:59 Got disconnected during reconnection attempt {room: 'main', roomID: 'RM_Bgd9zhy7pH83', participant: 'Volodya-1c44ca', participantID: 'PA_J5ymPLUJ3927'}
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+Promise.catch
+handleClosing @ livekit-client.umd.js:1
+r.emit @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+close @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+disconnect @ livekit-client.umd.js:1
+els.joinBtn.onclick @ renderer.js:59
+livekit-client.umd.js:1 final track stats {trackID: 'TR_AM96N8NDzHMxNF', source: 'microphone', muted: false, enabled: false, kind: 'audio', …}
+livekit-client.umd.js:1 final track stats {room: 'main', roomID: 'RM_Bgd9zhy7pH83', participant: 'Volodya-1c44ca', participantID: 'PA_J5ymPLUJ3927', trackID: undefined, …}
+livekit-client.umd.js:1 connection state changed: reconnecting -> disconnected {room: 'main', roomID: 'RM_Bgd9zhy7pH83', participant: 'Volodya-1c44ca', participantID: 'PA_J5ymPLUJ3927'}
+livekit-client.umd.js:1 signal connecting to wss://rifthub.ru/rtc/v1?access_token=%3Credacted%3E&join_request=CAESkxEfiwgAAAAAAAAK7VzNbhy5EYYWSbAQIGDXpz0SyHHRGhZZ7D9jDrLlZA2sDcGynSCntLo5o46nf7abI438AHmBvNA-WsCekbo1JLW25QCLgAcB0sdifayaquphf4AOv__24Mmf2DFjx_jD9__85l8H3zz5w7cH3x2w__x6cPjHZrGQ3ZN__3pwNadHh808ICAwRIEgeCxCFgkUMWHk5Wvy8gwJsOiYHtNjODrs58HRoZpTQo8Os7ncqCprg2y1aq6DqtzIQqNVXxZBL6usVmWeEvK3V-caXnbNuk2fvXt9-vMLQgkQRjhBIkh4dFjNs3VRNiQh707PZm9_Pp-9eXs2Oz95f_YXAgAk5CQhlMQEOAGgBFh4dJjPd-ejw-mGE3WqrbI21Xuadt3PMKaUzthkKeSkk4VlISF_jRibaXyCUnL2_NW7fTTW6Mk-Cpw8f22AQImSK9leNrUM5JWs1ZZ8asNCw-bWZFGpbTxVWbeqrOQc6NN1L8v6IquLhczncGcW6uzADAC2znMdlS1JeRssLgavXae6KabTswclBkINJDYQMB3pVBgYCy12QFSX1X3bdCrI87HUUiDrrk5LqRZpm3VZ1aedaoPLopMblfZ9lwdDIQUreSVXk32MXCrVprPZ9fX18bW86FR-3HTLmdy0sisrWat-NnqaZRd90Mu6CHTCJ2741I0-xeCkLGZFly1UcNmsKtkFXZVnKhgjuC4LGeR5IDdK1n3Z1H1AYeIVHwyqkH1alUNn9VKt2zTLVZv1_dBqZZFuP1KZXzX16kb_XuYyWC-6bJlCebG-RdrrIq3-DkVT_3gqL3_5B-DHH5fPXp2-rE7eDAVU1kvZtV1Zq7S_zAImQgIiPRFpGKdhktIw5c9TKtLkNI2jFMMUePqCp3GokVPQYBSmJ5CyZyny9BTTBNNnNI0whecpJukJpi_iweGL9ISnIro9WtMqnZRUdWX-YSXvSqFab-5-7_ry47iy6dIuv-qCTql5tlr5AeIHiB8gXzpAwA8QP0D8APED5EsHCPMDRA-Qq7KQ9gGShCSJSBKTJCFAKQEKhAvCQ8IjwmMClBGgnABFAjQiQDWWEAAkAIIAhAQgIjwhSAkCQUaQE0SCgmBIMCIYEwD9kxBgejwBwYQISgQQwQgw_cMJMCSCPzi5kpC8P4tnCb0_IZKIdGpjwjF5f5aYcGK11sHbzHVCbPZcWM15aLeO7Nax4yyM_MRCtCxwxwZ0bbDnRn-Mjg2O9ICLAYRjQ-jaYD8ST-z2SK3mCA5zZjfnDnO0mwty8h5M2P7pYmS3dny64Mo9OHLPqGMDs9cmDqkUBi7sqRTgMLenUjes_pZg4o7iZEjWq3Yhc5OBk8VKbhYyDygfV4fndRKRrFXzJByRmLRdsyhXMiiL-cQy2VrG41cCSqembLIAgy1MiLiY2o5fGHg4mHIxItHUko94vLWMJjyMDI_ZIOtvqkqq7mb7LkoWc3jaZvkHqcqPmR7tQdUUUoM7z9ttZTFHRiksJi757ujTcPDzaOgn0EQ7Gpxg8VeIRt6nSXY0k08NvkY092lAbGlgEg2Ej4-muJ802CUNxmrlyeODuc-CdFtmyYjAoyNZ4H0ONnDg2AbIHx3HPgduOcYGQkFujTdzcetgTp-qUnaTTsdtS-LYkhhZd4Kxc9uiOGlReHxRh7hXBruihklRM_ro_O3TsN0QY5P4krs8zCEOn04n2pCLYLHKljqjmy3N-Zvzt3e7xbaycKwsAU5_7BP8batIwOTMu-nFxukl9G2zzcouuC7rornWU5mOT4jfuKAl5t1IfxHch8zLV2Le2fTzwsTMCyAXJmQeg5vH4JY7IGUWzHIxpGjBTAo9pE3MEitY_IEZmB6TJmYJzaRAM5toJhPN-NEMH83TonlYNM-K5lHRkiGwYZasMdv13BKUuVWYO4W5UViqgdkwS4UwM0fC8qoiJMumWQadrC728P0XCpOlPK_Iotx3VGf5BwtE2lW51312ythNGVspY5MytlLqVrZy6gUXqV6zsGp4n_YW2-flwk7LhZOVCxspFwbnDjIoIwdl5KaMrJSRSRk5sstc2WUPZJfZs8ss2WUOXnTx4gO8aOdFCy86eB0VrBfcvNYa1rDJ66hicMULD8QL9njBEi844gXHkNALbl7rmNCwyWsfFDxxlHLiLuXEWsqJWcqJlRLBTonm-9XJkoUSwaDcQQYld1ByNyW3UnKTktspHWMJ3WMJrWMJzbGE9rGEjrGE7rGE1rGE5lhCx1gCV5vCA20K9jYFS5uCo02Z62HDHnjYMPvDhlkeNsz-sEFHu6C7XdDaLmi2C9rbRTjaRbjbRVjbRZjtIuztIhztIsx2uVVAHlQLVLNY9FIdfXXlA_hAy5dtmw6v2oOmK2Wthlvd0f9aIRGfF0S7ym6atQoKucpuJm7Cz3OzjTNvaiVrFaibdpqQ6Et8qbIq6-XES_x5XvJm1XRB32b59CifrB_dfpb0Nzfov3vVyawK7m99WIAbtg73XVkETh_bkuzT2SxrKlmUWd4UMj9elupyfXFcNrPsCra7W5nP_lzIVtaFrPOboJB93pWtarph_VJmhezGqjlyaWTDaxivkXmNbAJ7jcxrZCPuNTKvkXmNzGtkXiPzGpnXyEbEa2ReI_Ma2b23VV4ju0O9RuY1Mq-ReY3sbs1rZBbIa2R7uNfIvEbmNTKvkXmN7HekkQ1vxrxG5jWyCew1Mq-RjbjXyLxG5jUyr5F5jcxrZF4jGxGvkXmNzGtk995WeY3sDvUamdfIvEbmNbK7Na-RWSCvke3hXiPzGpnXyLxG5jWy35FGNrxM8RpZ1rarMh9adqeUnWqp7Pz52zOyLb6gyFSWX2Z1rf8Np02nsuY3_H_JaZ-rNtAjKRW7lzRVtgkq2ffZUgY6vykLGSAeHf5w8F8ocW8iMGAAAA%3D%3D {room: 'main', roomID: 'RM_Bgd9zhy7pH83', participant: 'Volodya-1c44ca', participantID: 'PA_J5ymPLUJ3927', reconnect: undefined, …}
+livekit-client.umd.js:1 ping timeout triggered. last pong received at: Sat, 10 Oct 2026 13:01:34 GMT {room: 'main', roomID: 'RM_Bgd9zhy7pH83', participant: 'Volodya-a5e346', participantID: 'PA_yavffAij6WfE'}
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+setTimeout
+da.setTimeout @ livekit-client.umd.js:1
+resetPingTimeout @ livekit-client.umd.js:1
+handleSignalResponse @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+startReadingLoop @ livekit-client.umd.js:1
+handleSignalConnected @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+connect @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+reconnect @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+resumeConnection @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+attemptReconnect @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+setTimeout
+da.setTimeout @ livekit-client.umd.js:1
+Ol.handleDisconnect @ livekit-client.umd.js:1
+client.onClose @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+handleOnClose @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+livekit-client.umd.js:1 websocket connection closed: ping timeout {room: 'main', roomID: 'RM_Bgd9zhy7pH83', participant: 'Volodya-a5e346', participantID: 'PA_yavffAij6WfE', reason: 'ping timeout'}
+livekit-client.umd.js:1 signal disconnected {room: 'main', roomID: 'RM_Bgd9zhy7pH83', participant: 'Volodya-a5e346', participantID: 'PA_yavffAij6WfE'}
+(anonymous) @ livekit-client.umd.js:1
+Ol.handleDisconnect @ livekit-client.umd.js:1
+client.onClose @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+handleOnClose @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+setTimeout
+da.setTimeout @ livekit-client.umd.js:1
+resetPingTimeout @ livekit-client.umd.js:1
+handleSignalResponse @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+startReadingLoop @ livekit-client.umd.js:1
+handleSignalConnected @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+connect @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+reconnect @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+resumeConnection @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+attemptReconnect @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+setTimeout
+da.setTimeout @ livekit-client.umd.js:1
+Ol.handleDisconnect @ livekit-client.umd.js:1
+client.onClose @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+handleOnClose @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+livekit-client.umd.js:1 resuming signal connection, attempt 0 {room: 'main', roomID: 'RM_Bgd9zhy7pH83', participant: 'Volodya-a5e346', participantID: 'PA_yavffAij6WfE'}
+livekit-client.umd.js:1 signal connecting to wss://rifthub.ru/rtc/v1?access_token=%3Credacted%3E&join_request=CAESQh-LCAAAAAAAAArjEuRgFGIz0jMy0jOREExgymJkEmLhYBRgtGB0YPTiD3CMr0wsS0tzzMwyC09zBQAkwxAGLgAAAA%3D%3D {room: 'main', roomID: 'RM_Bgd9zhy7pH83', participant: 'Volodya-a5e346', participantID: 'PA_yavffAij6WfE', reconnect: true, …}
+livekit-client.umd.js:1 signal connected {room: 'main', roomID: 'RM_Bgd9zhy7pH83', participant: 'Volodya-1c44ca', participantID: 'PA_J5ymPLUJ3927'}
+livekit-client.umd.js:1 connected to Livekit Server edition: 0, version: 1.13.9, protocol: 17, region: , nodeId: ND_VQHFwp7boRnL, debugInfo: , agentProtocol: 1 {room: 'main', roomID: 'RM_Bgd9zhy7pH83', participant: 'Volodya-1c44ca', participantID: 'PA_fR9iVgXdr4kV'}
+livekit-client.umd.js:1 signal connected {room: 'main', roomID: 'RM_Bgd9zhy7pH83', participant: 'Volodya-a5e346', participantID: 'PA_yavffAij6WfE'}
+livekit-client.umd.js:1 triggering ICE restart {room: 'main', roomID: 'RM_Bgd9zhy7pH83', participant: 'Volodya-a5e346', participantID: 'PA_yavffAij6WfE'}
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+triggerIceRestart @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+resumeConnection @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+attemptReconnect @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+setTimeout
+da.setTimeout @ livekit-client.umd.js:1
+Ol.handleDisconnect @ livekit-client.umd.js:1
+client.onClose @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+handleOnClose @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+setTimeout
+da.setTimeout @ livekit-client.umd.js:1
+resetPingTimeout @ livekit-client.umd.js:1
+handleSignalResponse @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+startReadingLoop @ livekit-client.umd.js:1
+handleSignalConnected @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+connect @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+reconnect @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+resumeConnection @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+attemptReconnect @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+setTimeout
+da.setTimeout @ livekit-client.umd.js:1
+Ol.handleDisconnect @ livekit-client.umd.js:1
+client.onClose @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+handleOnClose @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+livekit-client.umd.js:1 error reading from signal stream {room: 'main', roomID: 'RM_Bgd9zhy7pH83', participant: 'Volodya-a5e346', participantID: 'PA_yavffAij6WfE', error: ConnectionError: WS closed unexpectedly with code 1006
+    at Xs.websocket (file:///C:/RiftHub/node…}
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+c @ livekit-client.umd.js:1
+renderer.js:99 error reading from signal stream {room: 'main', roomID: 'RM_Bgd9zhy7pH83', participant: 'Volodya-1c44ca', participantID: 'PA_fR9iVgXdr4kV', error: ConnectionError: WS closed unexpectedly with code 1006
+    at Xs.websocket (file:///C:/RiftHub/node…}
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+c @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+startReadingLoop @ livekit-client.umd.js:1
+handleSignalConnected @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+connect @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+join @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+join @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+connectSignal @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+attemptConnection @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+a @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+Mo @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+connect @ livekit-client.umd.js:1
+connectToRoom @ renderer.js:99
+els.joinBtn.onclick @ renderer.js:51
