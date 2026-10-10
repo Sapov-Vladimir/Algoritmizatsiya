@@ -57,3 +57,556 @@ data: 4 2026-10-10T13:23:39.808Z xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 data: 5 2026-10-10T13:23:40.809Z xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 data: 6 2026-10-10T13:23:41.811Z xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+rifthub.ru/token:1  Failed to load resource: net::ERR_CONNECTION_TIMED_OUT
+renderer.js:56 TypeError: Failed to fetch
+    at els.joinBtn.onclick (renderer.js:41:24)
+els.joinBtn.onclick @ renderer.js:56
+renderer.js:41  POST https://rifthub.ru/token net::ERR_CONNECTION_TIMED_OUT
+els.joinBtn.onclick @ renderer.js:41
+renderer.js:56 TypeError: Failed to fetch
+    at els.joinBtn.onclick (renderer.js:41:24)
+els.joinBtn.onclick @ renderer.js:56
+livekit-client.umd.js:1 connection state changed: disconnected -> connecting {room: '', roomID: undefined, participant: '', participantID: ''}
+livekit-client.umd.js:1 signal connecting to wss://rifthub.ru/rtc/v1?access_token=%3Credacted%3E&join_request=CAESnREfiwgAAAAAAAAK7VzbbuQ2EoWD3UVgwMBmnvJYwD4GcrN4kVoc9IPjSyZAZtaIZ2aRt5Ultq2d1gUS227nA_YH9ofyaQuq2265SToz41kgWPChgfZhkYdVqio1eQDvf_P13ou_0ENKD_m33_zzq3_tffXiT1_v_XWP_ue3vf0_N_O56l78-7e9mxk52G9mEUwZEynhSSwQY44xITFQ-PEN_HjOAWlySA7JIR7s97PoYF_PCJCD_WymVrrK2ihbLJrbqCpXqjBo1ZdF1Ksqq3WZS4B_vL4w8FXXLFv5_bs3Jz-dAgEECgw4CIgP9qtZtizKBlJ4d3I-efvTxeTnt-eTi6P352eAiBAzSIHAFJABIgGk8cF-Ptvsjwy7G3bU6bbKWmnmNO2yn_ApIWRCR0Mxg04VjoEUfkgonRh8hBI4P379bhedGvRoF0UGx28sEAlotVDtdVOrSN2oWq_JxzY0tmzuTeaVXvtTlXWry0rNkLxc9qqsL7O6mKt8hg9msYkOThBxvXhuvHIFKW-j-eWwatfpboyZ8OxAqYUQC5laCNoLmVBYGI0ddgi6y-q-bTod5fk21STCsqtlqfRctlmXVb3sdBtdF51aadn3XR4NiRQt1I1ajOZRuNa6lZPJ7e3t4a267HR-2HRXE7VqVVdWqtb9ZLvSJLvso17VRWQCPlqGjZcxuxgWKYtJ0WVzHV03i0p1UVflmY62HtyWhYryPFIrreq-bOo-IjhalT_pVKF6WZVDZfVKL1uZ5brN-n4otbKQ60eq8pumXtyZ72WuouW8y67kL9V3xT3S3hbyQ_bu5vq7v7-60NfsVXy-ePsLHlevJ8mQQGV9pbq2K2st--ssoiKG-EyeUXl0KhmX8bGMqTw9k4LLGOXJmTxmMjmVeCRPqTw7kexMJifyKJVpLE9RnhxLmkh6Kk-5TFAecZkkBhdn8vhUxqlMv7_fWtNqExSpuzL_sFAPqVAtVw_fu778dTuy6mSX33RRp_UsWyxCAwkNJDSQz20gGBpIaCChgYQG8rkNhIYGYhrITVkodwNJY0gTSKeQpoCEABIEJoDFwBJgU0BCAQkDJByQJIDEYCkgckAUgBgDYgIsBU6AI3AKnAHnwAXwGHgCfAqI5pMCUtOeEHgKgoBAEBSQmg8DpBwEe7JzpTG8P59OUvK4Q6QJdHplw1N4f57acOq0Ns67zE1AXPZMOM1Z7LZO3NZTz14ovKIxdwwwzwTum-COjXmMngme8KCPAYVnQuyb4N4SS932nDjNOXrMqducecy521zA0Xu0YffT5Ynb2vN00Rd79MSeEs8E6s5NPoRSWLhwh1Kgx9wdSlOw5leCjXuSk3JYLtq5ym0GBvOFWs1VHhG2HR3e12kCWatnabxFptB2zbxcqKgsZiPLdG053f4kIGRsSkcDONjiiIiJse32BwOLB1MmtkgytmRbfLq2TEY8FIbXbJT1d1WldHe3votSxQxftln-Qeny18y09qhqCmXAzcrraWUx45QQnI-WZJutj93hn0ZDPoIm2dDwETb9At6oxzTphmb01PBLePOYBsWaBkfeYPx8b4rHQcNN0HCbrSx9vjOPWThZp1m6RfDZnsz5Yw46cPBtGXD2bD92OfiaY1tAXMC98Wom7heYkZe6VN2o0vm6JPm2JHninInWzHWJ8lGJ4vOTOuY7abBJahwlNSXPjt8uDd00MTryL32Iwwyn8ctxRxtiEc0X2ZWJ6GpNc_HzxduH2WKdWXybWQK969GPWG-dRQJHe950L7rtXsKcNtus7KLbsi6aW9OVyfYN8TsHtNQ-G5kfgruQffhK7TObeV_YmH0AZMKG7G0wexvMcQYk1IE5DoaEOzCbwjRpG3P4io710HbMtEkbc7hmU3A7mtwOJrf957b73N4ttzfL7b1ye6vcESF0YY6oUdfx3OGUPVXYM4U9UTiygbowR4ZQO0bCcVURw1XTXEWdqi538N0LhdFQnlcwL3cXqrP8gwOCdlHuVJ-bcuqnnDoppzbl1ElpStnJaQZ8pGbMwWrgXdp7bJeXCTctE15WJlykTFicG8iiTDyUiZ8ycVImNmXiiS71RZc-EV3qji51RJd6eLmPlz_By9283MHLPbyeDDYDfl5nDhvY5vVkMfr8xSf8Rbe_6PAXPf6ip0mYAT-vs00Y2OZ1NwqWelI59ady6kzl1E7l1EnJ0U3J7fvV0ZCDkqNFuYEsSuahZH5K5qRkNiVzU3raEve3Je5sS9xuS9zdlrinLXF_W-LOtsTttsQ9bQl9ZYpPlCm6yxQdZYqeMqW-lw194mVD3S8b6njZUPfLhnvKhfvLhTvLhdvlwt3lIjzlIvzlIpzlIuxyEe5yEZ5yEXa53CsgT6oFupnPe6UPvrjygWygZVdtK4er9qjpSlXr4VR38L9WSMSnOdEusrtmqaNCLbK70TLxpy2z9jNvaq1qHem7dhyQ5HPW0mVV1lejVaaftkreLJou6tssH2_lo_Wj-2dJfneC-bvXncqq6PHUpwW4Yepw3lVF5F1jnZK9nEyyplJFmeVNofLDq1JfLy8Py2aS3eB6dqvyyd8K1aq6UHV-FxWqz7uy1U03jF-rrFDdNmsOfBrZcA0TNLKgkY3goJEFjWyLB40saGRBIwsaWdDIgkYWNLItEjSyoJEFjezRbVXQyB7QoJEFjSxoZEEjexgLGpkDChrZDh40sqCRBY0saGRBI_sDaWTDzVjQyIJGNoKDRhY0si0eNLKgkQWNLGhkQSMLGlnQyLZI0MiCRhY0ske3VUEje0CDRhY0sqCRBY3sYSxoZA4oaGQ7eNDIgkYWNLKgkQWN7A-kkQ2XKUEjy9p2UeZDyW6UshMjlV0cvz2HdfJFRaaz_Dqra_NvOF06lTO-8f9LTPtct5FpSVJsLmmqbBVVqu-zKxWZ-EoaU-T8YP_bvf8C4fErBDBgAAA%3D {room: undefined, roomID: undefined, participant: undefined, participantID: undefined, reconnect: undefined, …}
+livekit-client.umd.js:1 signal connected {room: undefined, roomID: undefined, participant: undefined, participantID: undefined}
+livekit-client.umd.js:1 connected to Livekit Server edition: 0, version: 1.13.9, protocol: 17, region: , nodeId: ND_dKjHXJui66Rr, debugInfo: , agentProtocol: 1 {room: 'main', roomID: 'RM_j3Gj5tRPL8rN', participant: 'Volodya-a8be78', participantID: 'PA_vWbNxEaKKqBp'}
+livekit-client.umd.js:1 connection state changed: connecting -> connected {room: 'main', roomID: 'RM_j3Gj5tRPL8rN', participant: 'Volodya-a8be78', participantID: 'PA_vWbNxEaKKqBp'}
+livekit-client.umd.js:1 publishing track {room: 'main', roomID: 'RM_j3Gj5tRPL8rN', participant: 'Volodya-a8be78', participantID: 'PA_vWbNxEaKKqBp', trackID: undefined, …}
+renderer.js:100 negotiation disconnected {room: 'main', roomID: 'RM_j3Gj5tRPL8rN', participant: 'Volodya-a8be78', participantID: 'PA_vWbNxEaKKqBp'}
+(anonymous) @ livekit-client.umd.js:1
+Ol.handleDisconnect @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+c @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+Ls @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+negotiate @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+C @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+publish @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+publishOrRepublishTrack @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+publishTrack @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+setTrackEnabled @ livekit-client.umd.js:1
+setMicrophoneEnabled @ livekit-client.umd.js:1
+connectToRoom @ renderer.js:100
+await in connectToRoom
+els.joinBtn.onclick @ renderer.js:51
+renderer.js:100 negotiation due to track publish failed, retrying after reconnect {room: 'main', roomID: 'RM_j3Gj5tRPL8rN', participant: 'Volodya-a8be78', participantID: 'PA_vWbNxEaKKqBp', error: NegotiationError: negotiation timed out
+    at file:///C:/RiftHub/node_modules/livekit-client/dist/…}
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+c @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+publishOrRepublishTrack @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+publishTrack @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+setTrackEnabled @ livekit-client.umd.js:1
+setMicrophoneEnabled @ livekit-client.umd.js:1
+connectToRoom @ renderer.js:100
+await in connectToRoom
+els.joinBtn.onclick @ renderer.js:51
+livekit-client.umd.js:1 reconnecting, attempt: 0 {room: 'main', roomID: 'RM_j3Gj5tRPL8rN', participant: 'Volodya-a8be78', participantID: 'PA_vWbNxEaKKqBp'}
+livekit-client.umd.js:1 connection state changed: connected -> reconnecting {room: 'main', roomID: 'RM_j3Gj5tRPL8rN', participant: 'Volodya-a8be78', participantID: 'PA_vWbNxEaKKqBp'}
+livekit-client.umd.js:1 signal connecting to wss://rifthub.ru/rtc/v1?access_token=%3Credacted%3E&join_request=CAESmhEfiwgAAAAAAAAK7VzbbuS4EYUXSbAw0EB2nvaRQB4DuVm86MJBP_gyk1lkdmCsZ5zXyBK7rWzrshLbbs8H5AfyQ_tpAaW2JTdJ78x4AiwCPhiwD4t1WNVVpaYO4MPvvj148SdyRMgR-_67f37zr4NvXvzh24M_H5D__Hpw-Md6uZTti3__enCzwLPDehGgGELGgHIgQMOIhgwIIuiHd-iHc4aAREf4CB_B7LBbBLNDtcAIzw7ThdyqMm2CdL2ub4Oy2Mpco2VX5EEny7RSRSYQ-sePFxpetfWmEScf3p29fYUwAkQQRQxxFM4Oy0W6yYsaJejD2fn8_duL-U_vz-cXx5fnrxEAoJCiBGEUI6AIACMg4ewwW-zOh_vT9SdqVVOmjdB76mbTzVmMMZ6TyVJIUStzy0KC_hYRMtf4BMXo_PTHD_torNHjfRQoOn1ngICRkmvZXNeVDOSNrNRAPrUhoWFzb7Is1RBPWVSNKkq5APxy08miukqrfCmzBTyYhTo7MAeAwXmmo7IlKWuC5VXvtW1VO8V0evagxECwgcQGAqYjnQoDI6HFDpBq06pr6lYFWTaWmgC0aStRSLUUTdqmZSda1QTXeSu3SnRdmwV9IQVreSPXk30EXSvViPn89vb26FZetSo7qtvVXG4b2RalrFQ3Hz3N06su6GSVBzrhEzd06kafondS5PO8TZcquK7XpWyDtsxSFYwR3Ba5DLIskFslq66oqy7AMPHKngwql50oi76zOqk2jUgz1aRd17dakYvhI5XZTV2t7_TvRSaDzbJNV-KX-bBPI81tLi5Jfn1RveFvqiT_a_b2Y_v302J5GS77AiqqlWybtqiU6K7TgPAQvX4t6CtxlojkTMCpOOGCngrCxMmpiIk4OxHxqUiOBSMiOhY8FKevxDEWPBHkRMBrQYk4ORHRmTiOBY5F_EpEWNATASfaW8jvj1Y3SidFqLbIfl7Lh1IoN9uH39uu-DiubFvRZjdt0Cq1SNdrP0D8APED5EsHCPgB4geIHyB-gHzpACF-gOgBclPk0j5AkhAlEUpilCQIMEaAAVGOaIhohGiMABMEmCLADAGOEGCNJQiAIQCOAEIEECGaIIYRA8QIYhQxhhhHLEQsQixGAPonQUD0eALEEsQx4oA4QUD0D0VAGOL0ycmVhOjyPJ4n-PGESCLUqq0Jx-jyPDHhxGqtg7eZ64TY7Cm3mtPQbh3ZrWPHWQh6Q0JmWaCODcy1wZ4b_TE6NjjSAy4G4I4NoWuD_Ug0sdszbDVn4DAndnPqMGd2c46OL8GE7Z8ui-zWjk8XXLkHR-4Jdmwg9tpkfSq5gXN7Kjk4zO2p1A2rvyWYuKM4CUObdbOUmclA0XItt0uZBZiOq_3zOolQ2qhFEo5IjJq2XhZrGRT5YmKZDJbx-JUA46kpmSxAbwsTIsqntuMXBhr2ppSPSDS1pCMeD5bRhIeg_jEbpN1dWUrV3g3vomS-gJdNmv0sVfEx1aM9KOtcanDnedhW5AtGMIblxCXdHX0aDvs8GvwJNNGOhk2w-CtEIx_TJDuayacGXyOaxzTABxqYRAPh86PJHycNdkmDsVpp8vxgHrMwPJRZMiLw7EiW7DEH6TnY2AaMPjuOfQ42cIwNxDi6N94u-L2DBX6pCtlOOp0NLcnGlmSRdScYO4cWZZMWhecXdcj2ymBX1DApaoKfnb99GrIbYmQSX_KQhwXE4cvpROtzESzX6UpndDvQXPx08f5hNx8qi42VxcHpj3yCv6GKOEzOvJteZJxeXN82m7Rog9uiyutbPZXx-IT4jQtaYt6N9BfBfci8fCXmnU0_L0zMvABSbkLmMah5DGq5A2JiwSwXQ8wsmEmhh7SJWWIFiz8wA9Nj0sQsoZkUzMwmM5PJzPiZGT4zT8vMwzLzrMw8KrNkCGyYJWvEdj23BGVu5eZObm7klmogNsxSIcTMEbe8qgjRqq5XQSvLqz18_4XCZCnLSrQs9h1VafazBULNutjrPjtl7KaMrZSxSRlbKXUrWzn1gotUr1lYNbxPe4_t81Jup6XcyUq5jZRyg3MHGZSRgzJyU0ZWysikjBzZJa7skieyS-zZJZbsEgcvc_GyJ3iZnZdZeJmD11HBesHNa61hDZu8jioGV7zwRLxgjxcs8YIjXnAMCb3g5rWOCQ2bvPZBQRNHKSfuUk6spZyYpZxYKRnYKZn5fnWyZKFkYFDuIIOSOiipm5JaKalJSe2UjrHE3GOJWccSM8cSs48l5hhLzD2WmHUsMXMsMcdYAlebwhNtCvY2BUubgqNNiethQ5542BD7w4ZYHjbE_rBhjnZh7nZh1nZhZrswe7twR7twd7twa7tws124vV24o1242S73CsiTaoGql8tOqtlXVz6A9rR01TSif9Ue1G0hK9Xf6mb_a4WEf14QzTq9qzcqyOU6vZu4CT_PzRBnVldKVipQd800IdGX-FJFWVSriZf487xk9bpug65Js-lRPlk_uv8s8W9u0H93qpVpGTze-rQA12_t77syD5w-hpLsxHye1qXMizSrc5kdrQp1vbk6Kup5egPD7kZm87_kspFVLqvsLshll7VFo-q2X7-WaS7bsWpmLo2sfw3jNTKvkU1gr5F5jWzEvUbmNTKvkXmNzGtkXiPzGtmIeI3Ma2ReI3v0tsprZA-o18i8RuY1Mq-RPax5jcwCeY1sD_camdfIvEbmNTKvkf2ONLL-zZjXyLxGNoG9RuY1shH3GpnXyLxG5jUyr5F5jcxrZCPiNTKvkXmN7NHbKq-RPaBeI_MamdfIvEb2sOY1MgvkNbI93GtkXiPzGpnXyLxG9jvSyPqXKV4jS5tmXWR9y-6UsjMtlV2cvj9HQ_EFearS7DqtKv1vOG06lTW_4f9LTrtMNYEeSYLvXtKU6TYoZdelKxno_AoSEmBsdvj9wX8B3TuiUjBgAAA%3D {room: 'main', roomID: 'RM_j3Gj5tRPL8rN', participant: 'Volodya-a8be78', participantID: 'PA_vWbNxEaKKqBp', reconnect: undefined, …}
+livekit-client.umd.js:1 signal connected {room: 'main', roomID: 'RM_j3Gj5tRPL8rN', participant: 'Volodya-a8be78', participantID: 'PA_vWbNxEaKKqBp'}
+livekit-client.umd.js:1 connected to Livekit Server edition: 0, version: 1.13.9, protocol: 17, region: , nodeId: ND_dKjHXJui66Rr, debugInfo: , agentProtocol: 1 {room: 'main', roomID: 'RM_j3Gj5tRPL8rN', participant: 'Volodya-a8be78', participantID: 'PA_zjGKR9RkSheo'}
+livekit-client.umd.js:1 connection state changed: reconnecting -> connected {room: 'main', roomID: 'RM_j3Gj5tRPL8rN', participant: 'Volodya-a8be78', participantID: 'PA_zjGKR9RkSheo'}
+renderer.js:99 error reading from signal stream {room: 'main', roomID: 'RM_j3Gj5tRPL8rN', participant: 'Volodya-a8be78', participantID: 'PA_zjGKR9RkSheo', error: ConnectionError: WS closed unexpectedly with code 1006
+    at Xs.websocket (file:///C:/RiftHub/node…}
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+c @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+startReadingLoop @ livekit-client.umd.js:1
+handleSignalConnected @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+connect @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+join @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+join @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+connectSignal @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+attemptConnection @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+a @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+Mo @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+connect @ livekit-client.umd.js:1
+connectToRoom @ renderer.js:99
+els.joinBtn.onclick @ renderer.js:51
+renderer.js:100 ping timeout triggered. last pong received at: Sat, 10 Oct 2026 13:30:11 GMT {room: 'main', roomID: 'RM_j3Gj5tRPL8rN', participant: 'Volodya-a8be78', participantID: 'PA_zjGKR9RkSheo'}
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+setTimeout
+da.setTimeout @ livekit-client.umd.js:1
+resetPingTimeout @ livekit-client.umd.js:1
+handleSignalResponse @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+startReadingLoop @ livekit-client.umd.js:1
+handleSignalConnected @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+connect @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+join @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+join @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+restartConnection @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+attemptReconnect @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+setTimeout
+da.setTimeout @ livekit-client.umd.js:1
+Ol.handleDisconnect @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+c @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+Ls @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+negotiate @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+C @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+publish @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+publishOrRepublishTrack @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+publishTrack @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+setTrackEnabled @ livekit-client.umd.js:1
+setMicrophoneEnabled @ livekit-client.umd.js:1
+connectToRoom @ renderer.js:100
+await in connectToRoom
+els.joinBtn.onclick @ renderer.js:51
+renderer.js:100 negotiation disconnected {room: 'main', roomID: 'RM_j3Gj5tRPL8rN', participant: 'Volodya-a8be78', participantID: 'PA_zjGKR9RkSheo'}
+(anonymous) @ livekit-client.umd.js:1
+Ol.handleDisconnect @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+c @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+Ls @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+negotiate @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+C @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+publish @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+publishOrRepublishTrack @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+c @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+publishOrRepublishTrack @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+publishTrack @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+setTrackEnabled @ livekit-client.umd.js:1
+setMicrophoneEnabled @ livekit-client.umd.js:1
+connectToRoom @ renderer.js:100
+await in connectToRoom
+els.joinBtn.onclick @ renderer.js:51
+renderer.js:56 NegotiationError: negotiation timed out
+    at livekit-client.umd.js:1:290881
+els.joinBtn.onclick @ renderer.js:56
+livekit-client.umd.js:1 disconnect from room {room: 'main', roomID: 'RM_j3Gj5tRPL8rN', participant: 'Volodya-a8be78', participantID: 'PA_zjGKR9RkSheo'}
+livekit-client.umd.js:1 connection state changed: connected -> disconnected {room: 'main', roomID: 'RM_j3Gj5tRPL8rN', participant: 'Volodya-a8be78', participantID: 'PA_zjGKR9RkSheo'}
+livekit-client.umd.js:1 final track stats {room: 'main', roomID: 'RM_j3Gj5tRPL8rN', participant: 'Volodya-a8be78', participantID: 'PA_zjGKR9RkSheo', trackID: undefined, …}
+livekit-client.umd.js:1 websocket connection closed: ping timeout {room: 'main', roomID: 'RM_j3Gj5tRPL8rN', participant: 'Volodya-a8be78', participantID: 'PA_zjGKR9RkSheo', reason: 'ping timeout'}
+renderer.js:100 error reading from signal stream {room: 'main', roomID: 'RM_j3Gj5tRPL8rN', participant: 'Volodya-a8be78', participantID: 'PA_zjGKR9RkSheo', error: ConnectionError: WS closed unexpectedly with code 1006
+    at Xs.websocket (file:///C:/RiftHub/node…}
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+c @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+startReadingLoop @ livekit-client.umd.js:1
+handleSignalConnected @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+connect @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+join @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+join @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+restartConnection @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+attemptReconnect @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+setTimeout
+da.setTimeout @ livekit-client.umd.js:1
+Ol.handleDisconnect @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+c @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+Ls @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+negotiate @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+C @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+publish @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+publishOrRepublishTrack @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+publishTrack @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+o @ livekit-client.umd.js:1
+Promise.then
+d @ livekit-client.umd.js:1
+(anonymous) @ livekit-client.umd.js:1
+kr @ livekit-client.umd.js:1
+setTrackEnabled @ livekit-client.umd.js:1
+setMicrophoneEnabled @ livekit-client.umd.js:1
+connectToRoom @ renderer.js:100
+await in connectToRoom
+els.joinBtn.onclick @ renderer.js:51
